@@ -1,31 +1,39 @@
-# E-commerce Sales Analytics | SQL Project
+# Data Analytics Portfolio
 
-## Project Overview
+## About Me
 
-This project focuses on analyzing e-commerce sales data using MySQL to identify revenue trends, evaluate sales performance and generate meaningful business insights.
+Economics graduate and MSc student in Management, Analytics and Information Systems for Business at the National and Kapodistrian University of Athens.
 
-The main objective is to transform raw transactional data into actionable information that supports data-driven decision-making.
+I am interested in Data Analytics, Business Intelligence and data-driven decision-making.
 
-## Business Objectives
+## Technical Skills
 
-- Analyze total revenue and sales performance.
-- Compare sales across different time periods.
-- Identify revenue growth and seasonal trends.
-- Evaluate product performance.
-- Explore customer purchasing behavior.
-- Identify opportunities for business improvement.
+- SQL & MySQL
+- Python & Pandas
+- R & ggplot2
+- Microsoft Excel
+- Data Cleaning
+- Data Visualization
+- Business Analytics
 
-## Key Performance Indicators (KPIs)
+## Portfolio Projects
 
-- Total Revenue
-- Total Orders
-- Average Order Value (AOV)
-- Revenue Growth Rate
-- Monthly Sales Performance
-- Product Sales Performance
+### SQL
+- HR Analytics
+- E-commerce Sales Analytics
+- Construction Cost Analysis
 
-## Project Purpose
+### Python
+- Cab Business Analysis
+- Sales Data Analysis
 
-This project demonstrates my ability to work with relational databases, perform business-oriented data analysis and extract valuable insights using SQL.
+### R
+- Statistical Analysis and Data Visualization
 
-It was developed as part of my personal Data Analytics portfolio.
+### Excel
+- Unemployment Data Analysis
+- Descriptive Statistics
+
+## Objective
+
+This portfolio demonstrates my ability to transform raw data into meaningful business insights through database management, statistical analysis and data visualization.
