@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,city,region,signup_date
+1,Elena,Papadopoulos,customer0001@example.com,Ioannina,Epirus,2023-04-13
+2,Chris,Dimitriou,customer0002@example.com,Volos,Thessaly,2023-09-28
+3,Anna,Nikolaidis,customer0003@example.com,Heraklion,Crete,2024-12-01
+4,Elena,Mavridis,customer0004@example.com,Athens,Attica,2023-05-02
+5,Daphne,Georgiou,customer0005@example.com,Patras,Western Greece,2023-11-27
+6,Stavros,Antoniou,customer0006@example.com,Heraklion,Crete,2024-01-08
+7,Maria,Papadopoulos,customer0007@example.com,Larissa,Thessaly,2024-10-25
+8,Nikos,Dimitriou,customer0008@example.com,Rhodes,South Aegean,2023-11-05
+9,Anna,Christou,customer0009@example.com,Kalamata,Peloponnese,2024-05-06
+10,Eva,Papadopoulos,customer0010@example.com,Athens,Attica,2024-01-21
+11,Daphne,Dimitriou,customer0011@example.com,Heraklion,Crete,2023-10-04
+12,Daphne,Antoniou,customer0012@example.com,Patras,Western Greece,2023-11-10
+13,Anna,Vasilis,customer0013@example.com,Athens,Attica,2025-01-17
+14,Stavros,Ioannou,customer0014@example.com,Heraklion,Crete,2024-04-19
+15,Alex,Theodorou,customer0015@example.com,Athens,Attica,2024-11-12
+16,Sofia,Pappas,customer0016@example.com,Thessaloniki,Central Macedonia,2024-11-30
+17,Irene,Kostas,customer0017@example.com,Athens,Attica,2023-07-09
+18,Chris,Nikolaidis,customer0018@example.com,Athens,Attica,2025-08-15
+19,Dimitris,Theodorou,customer0019@example.com,Rhodes,South Aegean,2024-07-20
+20,John,Georgiou,customer0020@example.com,Athens,Attica,2024-05-19
+21,Nikos,Antoniou,customer0021@example.com,Larissa,Thessaly,2025-03-29
+22,Elena,Kostas,customer0022@example.com,Athens,Attica,2025-04-20
+23,Eleni,Alexiou,customer0023@example.com,Rhodes,South Aegean,2024-01-23
+24,Chris,Theodorou,customer0024@example.com,Ioannina,Epirus,2023-01-14
+25,Maria,Pappas,customer0025@example.com,Athens,Attica,2025-02-15
+26,Petros,Christou,customer0026@example.com,Larissa,Thessaly,2025-06-16
+27,Elena,Spirou,customer0027@example.com,Larissa,Thessaly,2024-01-02
+28,Michael,Georgiou,customer0028@example.com,Patras,Western Greece,2024-03-03
+29,Daphne,Ioannou,customer0029@example.com,Athens,Attica,2025-07-31
+30,Eva,Spirou,customer0030@example.com,Athens,Attica,2023-03-22
+31,Eleni,Alexiou,customer0031@example.com,Volos,Thessaly,2025-05-21
+32,Dimitris,Pappas,customer0032@example.com,Athens,Attica,2024-01-25
+33,Nikos,Papadopoulos,customer0033@example.com,Athens,Attica,2025-02-10
+34,Anna,Theodorou,customer0034@example.com,Chania,Crete,2024-12-03
+35,Katerina,Georgiou,customer0035@example.com,Kalamata,Peloponnese,2024-07-09
+36,Anna,Karakas,customer0036@example.com,Kalamata,Peloponnese,2025-08-15
+37,Elena,Antoniou,customer0037@example.com,Kalamata,Peloponnese,2025-05-12
+38,Chris,Vasilis,customer0038@example.com,Heraklion,Crete,2024-03-31
+39,Eleni,Nikolaidis,customer0039@example.com,Athens,Attica,2023-09-09
+40,Eleni,Kostas,customer0040@example.com,Chania,Crete,2023-10-23
+41,Dimitris,Mavridis,customer0041@example.com,Athens,Attica,2025-01-18
+42,Chris,Pappas,customer0042@example.com,Heraklion,Crete,2023-02-22
+43,Nikos,Alexiou,customer0043@example.com,Thessaloniki,Central Macedonia,2023-08-05
+44,Sofia,Christou,customer0044@example.com,Athens,Attica,2024-01-15
+45,Anna,Nikolaidis,customer0045@example.com,Ioannina,Epirus,2023-06-06
+46,Petros,Antoniou,customer0046@example.com,Athens,Attica,2023-03-06
+47,Chris,Spirou,customer0047@example.com,Ioannina,Epirus,2024-06-04
+48,Daphne,Dimitriou,customer0048@example.com,Athens,Attica,2024-10-09
+49,John,Karakas,customer0049@example.com,Athens,Attica,2023-05-19
+50,Maria,Dimitriou,customer0050@example.com,Volos,Thessaly,2024-01-27
+51,Maria,Theodorou,customer0051@example.com,Heraklion,Crete,2023-10-16
+52,John,Antoniou,customer0052@example.com,Thessaloniki,Central Macedonia,2024-05-04
+53,Chris,Georgiou,customer0053@example.com,Kalamata,Peloponnese,2023-02-10
+54,Dimitris,Spirou,customer0054@example.com,Heraklion,Crete,2023-07-20
+55,Stavros,Spirou,customer0055@example.com,Athens,Attica,2025-07-18
+56,John,Dimitriou,customer0056@example.com,Thessaloniki,Central Macedonia,2024-05-17
+57,Olga,Antoniou,customer0057@example.com,Larissa,Thessaly,2024-12-28
+58,Petros,Nikolaidis,customer0058@example.com,Larissa,Thessaly,2024-11-14
+59,Chris,Nikolaidis,customer0059@example.com,Heraklion,Crete,2025-09-13
+60,Anna,Pappas,customer0060@example.com,Athens,Attica,2025-01-08
+61,Daphne,Christou,customer0061@example.com,Chania,Crete,2024-04-06
+62,Chris,Pappas,customer0062@example.com,Heraklion,Crete,2023-01-05
+63,Stavros,Antoniou,customer0063@example.com,Athens,Attica,2025-02-05
+64,Stavros,Antoniou,customer0064@example.com,Patras,Western Greece,2025-03-05
+65,Eleni,Dimitriou,customer0065@example.com,Athens,Attica,2023-01-15
+66,George,Christou,customer0066@example.com,Athens,Attica,2025-06-10
+67,Olga,Georgiou,customer0067@example.com,Kalamata,Peloponnese,2024-07-28
+68,Maria,Karakas,customer0068@example.com,Thessaloniki,Central Macedonia,2023-08-29
+69,Elena,Nikolaidis,customer0069@example.com,Larissa,Thessaly,2023-04-06
+70,Sofia,Theodorou,customer0070@example.com,Athens,Attica,2024-04-29
+71,Irene,Alexiou,customer0071@example.com,Heraklion,Crete,2025-01-18
+72,Nikos,Antoniou,customer0072@example.com,Athens,Attica,2024-06-24
+73,Michael,Alexiou,customer0073@example.com,Heraklion,Crete,2023-06-09
+74,Petros,Christou,customer0074@example.com,Athens,Attica,2023-08-31
+75,Chris,Christou,customer0075@example.com,Heraklion,Crete,2024-07-31
+76,Alex,Mavridis,customer0076@example.com,Larissa,Thessaly,2024-07-27
+77,Elena,Mavridis,customer0077@example.com,Patras,Western Greece,2024-10-07
+78,Daphne,Theodorou,customer0078@example.com,Athens,Attica,2024-09-11
+79,Chris,Theodorou,customer0079@example.com,Chania,Crete,2025-03-08
+80,John,Georgiou,customer0080@example.com,Ioannina,Epirus,2024-10-01
+81,Katerina,Antoniou,customer0081@example.com,Thessaloniki,Central Macedonia,2023-12-14
+82,Sofia,Vasilis,customer0082@example.com,Athens,Attica,2023-07-09
+83,Alex,Pappas,customer0083@example.com,Larissa,Thessaly,2024-01-12
+84,Chris,Christou,customer0084@example.com,Ioannina,Epirus,2024-09-24
+85,Sofia,Christou,customer0085@example.com,Thessaloniki,Central Macedonia,2025-01-14
+86,Elena,Karakas,customer0086@example.com,Patras,Western Greece,2024-12-10
+87,Katerina,Karakas,customer0087@example.com,Patras,Western Greece,2024-10-10
+88,Andreas,Alexiou,customer0088@example.com,Athens,Attica,2023-08-13
+89,Dimitris,Nikolaidis,customer0089@example.com,Athens,Attica,2024-11-14
+90,Eleni,Theodorou,customer0090@example.com,Thessaloniki,Central Macedonia,2025-04-06
+91,Sofia,Christou,customer0091@example.com,Heraklion,Crete,2024-08-30
+92,Andreas,Spirou,customer0092@example.com,Thessaloniki,Central Macedonia,2024-11-22
+93,Alex,Alexiou,customer0093@example.com,Athens,Attica,2024-05-11
+94,John,Vasilis,customer0094@example.com,Athens,Attica,2023-09-25
+95,Alex,Georgiou,customer0095@example.com,Volos,Thessaly,2024-01-21
+96,Eleni,Spirou,customer0096@example.com,Thessaloniki,Central Macedonia,2024-09-04
+97,Katerina,Dimitriou,customer0097@example.com,Athens,Attica,2023-03-22
+98,Maria,Dimitriou,customer0098@example.com,Patras,Western Greece,2023-01-02
+99,Stavros,Georgiou,customer0099@example.com,Athens,Attica,2024-07-19
+100,Nikos,Pappas,customer0100@example.com,Kalamata,Peloponnese,2025-01-05
+101,Olga,Karakas,customer0101@example.com,Larissa,Thessaly,2024-02-07
+102,Nikos,Theodorou,customer0102@example.com,Patras,Western Greece,2023-02-22
+103,Daphne,Theodorou,customer0103@example.com,Heraklion,Crete,2024-11-02
+104,George,Nikolaidis,customer0104@example.com,Larissa,Thessaly,2023-09-04
+105,Olga,Christou,customer0105@example.com,Thessaloniki,Central Macedonia,2023-07-22
+106,Sofia,Ioannou,customer0106@example.com,Volos,Thessaly,2024-02-05
+107,Andreas,Karakas,customer0107@example.com,Patras,Western Greece,2023-10-07
+108,Eva,Antoniou,customer0108@example.com,Larissa,Thessaly,2024-09-01
+109,Dimitris,Spirou,customer0109@example.com,Ioannina,Epirus,2025-06-25
+110,Daphne,Theodorou,customer0110@example.com,Chania,Crete,2023-05-24
+111,Dimitris,Pappas,customer0111@example.com,Patras,Western Greece,2023-05-04
+112,Katerina,Antoniou,customer0112@example.com,Athens,Attica,2024-04-08
+113,Eleni,Vasilis,customer0113@example.com,Thessaloniki,Central Macedonia,2024-10-21
+114,Andreas,Vasilis,customer0114@example.com,Athens,Attica,2025-07-20
+115,Elena,Dimitriou,customer0115@example.com,Ioannina,Epirus,2025-08-20
+116,Anna,Georgiou,customer0116@example.com,Larissa,Thessaly,2023-05-28
+117,John,Papadopoulos,customer0117@example.com,Rhodes,South Aegean,2025-03-30
+118,Stavros,Christou,customer0118@example.com,Thessaloniki,Central Macedonia,2025-07-24
+119,Anna,Alexiou,customer0119@example.com,Chania,Crete,2023-12-04
+120,Anna,Papadopoulos,customer0120@example.com,Thessaloniki,Central Macedonia,2025-02-17
+121,Nikos,Pappas,customer0121@example.com,Athens,Attica,2024-04-17
+122,Maria,Dimitriou,customer0122@example.com,Chania,Crete,2024-02-19
+123,Nikos,Spirou,customer0123@example.com,Athens,Attica,2024-09-02
+124,Maria,Karakas,customer0124@example.com,Ioannina,Epirus,2023-05-24
+125,John,Georgiou,customer0125@example.com,Athens,Attica,2024-07-25
+126,Andreas,Dimitriou,customer0126@example.com,Athens,Attica,2025-06-15
+127,Chris,Mavridis,customer0127@example.com,Heraklion,Crete,2024-10-13
+128,Olga,Dimitriou,customer0128@example.com,Larissa,Thessaly,2023-06-09
+129,Daphne,Nikolaidis,customer0129@example.com,Athens,Attica,2023-01-09
+130,Stavros,Alexiou,customer0130@example.com,Volos,Thessaly,2024-10-20
+131,Olga,Dimitriou,customer0131@example.com,Chania,Crete,2023-05-11
+132,Olga,Theodorou,customer0132@example.com,Ioannina,Epirus,2023-02-23
+133,Irene,Dimitriou,customer0133@example.com,Chania,Crete,2025-07-08
+134,Elena,Georgiou,customer0134@example.com,Athens,Attica,2024-09-16
+135,Irene,Kostas,customer0135@example.com,Larissa,Thessaly,2024-02-26
+136,Irene,Antoniou,customer0136@example.com,Athens,Attica,2023-09-11
+137,Petros,Karakas,customer0137@example.com,Rhodes,South Aegean,2024-05-24
+138,Maria,Mavridis,customer0138@example.com,Athens,Attica,2023-06-02
+139,Elena,Papadopoulos,customer0139@example.com,Thessaloniki,Central Macedonia,2025-06-14
+140,Michael,Pappas,customer0140@example.com,Larissa,Thessaly,2024-12-06
+141,John,Theodorou,customer0141@example.com,Rhodes,South Aegean,2024-12-20
+142,Elena,Dimitriou,customer0142@example.com,Volos,Thessaly,2025-09-22
+143,Dimitris,Dimitriou,customer0143@example.com,Patras,Western Greece,2025-03-11
+144,Daphne,Vasilis,customer0144@example.com,Volos,Thessaly,2025-03-26
+145,George,Antoniou,customer0145@example.com,Volos,Thessaly,2025-06-14
+146,Sofia,Ioannou,customer0146@example.com,Larissa,Thessaly,2023-07-14
+147,Petros,Dimitriou,customer0147@example.com,Heraklion,Crete,2023-02-02
+148,Nikos,Vasilis,customer0148@example.com,Thessaloniki,Central Macedonia,2025-08-12
+149,Daphne,Georgiou,customer0149@example.com,Athens,Attica,2024-01-10
+150,Maria,Mavridis,customer0150@example.com,Rhodes,South Aegean,2024-10-31
+151,Daphne,Karakas,customer0151@example.com,Patras,Western Greece,2023-12-31
+152,Alex,Georgiou,customer0152@example.com,Larissa,Thessaly,2025-02-14
+153,Anna,Nikolaidis,customer0153@example.com,Thessaloniki,Central Macedonia,2023-08-14
+154,Irene,Vasilis,customer0154@example.com,Heraklion,Crete,2024-08-31
+155,Olga,Dimitriou,customer0155@example.com,Chania,Crete,2025-08-17
+156,Michael,Spirou,customer0156@example.com,Patras,Western Greece,2025-04-08
+157,Maria,Nikolaidis,customer0157@example.com,Athens,Attica,2024-05-30
+158,Michael,Papadopoulos,customer0158@example.com,Athens,Attica,2023-02-18
+159,Michael,Ioannou,customer0159@example.com,Rhodes,South Aegean,2023-06-21
+160,Petros,Ioannou,customer0160@example.com,Athens,Attica,2024-04-21
+161,Irene,Pappas,customer0161@example.com,Thessaloniki,Central Macedonia,2024-06-01
+162,Daphne,Mavridis,customer0162@example.com,Rhodes,South Aegean,2025-01-14
+163,Olga,Nikolaidis,customer0163@example.com,Thessaloniki,Central Macedonia,2023-12-15
+164,Dimitris,Ioannou,customer0164@example.com,Heraklion,Crete,2023-06-30
+165,Dimitris,Papadopoulos,customer0165@example.com,Chania,Crete,2024-11-30
+166,Stavros,Pappas,customer0166@example.com,Thessaloniki,Central Macedonia,2023-07-10
+167,Daphne,Papadopoulos,customer0167@example.com,Chania,Crete,2025-07-16
+168,John,Papadopoulos,customer0168@example.com,Patras,Western Greece,2023-09-13
+169,Maria,Alexiou,customer0169@example.com,Heraklion,Crete,2023-01-18
+170,Olga,Christou,customer0170@example.com,Chania,Crete,2025-01-04
+171,Andreas,Nikolaidis,customer0171@example.com,Heraklion,Crete,2023-11-19
+172,Maria,Christou,customer0172@example.com,Athens,Attica,2025-03-02
+173,Nikos,Karakas,customer0173@example.com,Rhodes,South Aegean,2025-07-31
+174,Sofia,Georgiou,customer0174@example.com,Athens,Attica,2025-08-19
+175,Eva,Georgiou,customer0175@example.com,Chania,Crete,2024-05-04
+176,Anna,Antoniou,customer0176@example.com,Chania,Crete,2025-02-23
+177,Elena,Spirou,customer0177@example.com,Larissa,Thessaly,2024-01-28
+178,Stavros,Dimitriou,customer0178@example.com,Heraklion,Crete,2023-06-25
+179,Stavros,Alexiou,customer0179@example.com,Ioannina,Epirus,2024-11-12
+180,Maria,Alexiou,customer0180@example.com,Athens,Attica,2025-05-16
+181,Nikos,Antoniou,customer0181@example.com,Kalamata,Peloponnese,2024-02-12
+182,Stavros,Alexiou,customer0182@example.com,Athens,Attica,2024-05-20
+183,Andreas,Kostas,customer0183@example.com,Ioannina,Epirus,2023-02-05
+184,Chris,Dimitriou,customer0184@example.com,Athens,Attica,2023-11-17
+185,John,Dimitriou,customer0185@example.com,Athens,Attica,2024-02-04
+186,Chris,Antoniou,customer0186@example.com,Thessaloniki,Central Macedonia,2025-06-01
+187,George,Mavridis,customer0187@example.com,Heraklion,Crete,2023-04-02
+188,Katerina,Vasilis,customer0188@example.com,Heraklion,Crete,2025-03-10
+189,John,Spirou,customer0189@example.com,Thessaloniki,Central Macedonia,2025-05-03
+190,Nikos,Papadopoulos,customer0190@example.com,Heraklion,Crete,2024-11-28
+191,Petros,Alexiou,customer0191@example.com,Chania,Crete,2023-05-05
+192,Stavros,Georgiou,customer0192@example.com,Athens,Attica,2024-07-23
+193,Nikos,Christou,customer0193@example.com,Athens,Attica,2024-11-22
+194,Dimitris,Christou,customer0194@example.com,Thessaloniki,Central Macedonia,2025-02-21
+195,Chris,Nikolaidis,customer0195@example.com,Thessaloniki,Central Macedonia,2024-03-19
+196,Eleni,Spirou,customer0196@example.com,Volos,Thessaly,2023-09-21
+197,Nikos,Spirou,customer0197@example.com,Heraklion,Crete,2024-09-11
+198,Anna,Kostas,customer0198@example.com,Chania,Crete,2023-07-15
+199,Katerina,Nikolaidis,customer0199@example.com,Heraklion,Crete,2025-09-18
+200,Petros,Karakas,customer0200@example.com,Larissa,Thessaly,2023-02-16
+201,Daphne,Pappas,customer0201@example.com,Volos,Thessaly,2025-07-24
+202,Katerina,Alexiou,customer0202@example.com,Rhodes,South Aegean,2023-09-26
+203,Andreas,Papadopoulos,customer0203@example.com,Thessaloniki,Central Macedonia,2023-04-16
+204,Daphne,Ioannou,customer0204@example.com,Thessaloniki,Central Macedonia,2024-10-18
+205,Elena,Spirou,customer0205@example.com,Thessaloniki,Central Macedonia,2025-02-25
+206,George,Ioannou,customer0206@example.com,Athens,Attica,2025-08-08
+207,Elena,Spirou,customer0207@example.com,Rhodes,South Aegean,2024-04-18
+208,Elena,Pappas,customer0208@example.com,Thessaloniki,Central Macedonia,2025-03-01
+209,Daphne,Nikolaidis,customer0209@example.com,Thessaloniki,Central Macedonia,2025-06-26
+210,Chris,Ioannou,customer0210@example.com,Kalamata,Peloponnese,2023-02-27
+211,Eva,Dimitriou,customer0211@example.com,Athens,Attica,2025-01-20
+212,John,Dimitriou,customer0212@example.com,Athens,Attica,2024-09-29
+213,Chris,Christou,customer0213@example.com,Larissa,Thessaly,2024-08-23
+214,Olga,Ioannou,customer0214@example.com,Larissa,Thessaly,2025-06-03
+215,Maria,Georgiou,customer0215@example.com,Volos,Thessaly,2023-07-08
+216,Irene,Karakas,customer0216@example.com,Thessaloniki,Central Macedonia,2024-03-22
+217,Chris,Papadopoulos,customer0217@example.com,Thessaloniki,Central Macedonia,2025-05-10
+218,Alex,Kostas,customer0218@example.com,Heraklion,Crete,2023-03-17
+219,George,Mavridis,customer0219@example.com,Volos,Thessaly,2024-03-10
+220,Chris,Nikolaidis,customer0220@example.com,Thessaloniki,Central Macedonia,2024-11-27
+221,Petros,Christou,customer0221@example.com,Athens,Attica,2023-08-08
+222,Irene,Christou,customer0222@example.com,Chania,Crete,2023-04-04
+223,Alex,Georgiou,customer0223@example.com,Patras,Western Greece,2024-03-28
+224,Nikos,Spirou,customer0224@example.com,Volos,Thessaly,2023-08-06
+225,George,Christou,customer0225@example.com,Patras,Western Greece,2023-12-07
+226,Maria,Karakas,customer0226@example.com,Patras,Western Greece,2023-10-16
+227,Eleni,Alexiou,customer0227@example.com,Thessaloniki,Central Macedonia,2023-12-23
+228,Daphne,Nikolaidis,customer0228@example.com,Rhodes,South Aegean,2024-06-05
+229,Irene,Nikolaidis,customer0229@example.com,Athens,Attica,2023-04-10
+230,Maria,Ioannou,customer0230@example.com,Athens,Attica,2023-08-11
+231,Eleni,Spirou,customer0231@example.com,Patras,Western Greece,2024-10-20
+232,Maria,Spirou,customer0232@example.com,Heraklion,Crete,2025-02-07
+233,Eleni,Dimitriou,customer0233@example.com,Heraklion,Crete,2024-05-30
+234,Anna,Mavridis,customer0234@example.com,Larissa,Thessaly,2023-12-02
+235,Elena,Kostas,customer0235@example.com,Chania,Crete,2024-05-11
+236,Daphne,Spirou,customer0236@example.com,Rhodes,South Aegean,2023-06-09
+237,Irene,Alexiou,customer0237@example.com,Larissa,Thessaly,2024-10-25
+238,George,Spirou,customer0238@example.com,Larissa,Thessaly,2024-11-05
+239,Anna,Karakas,customer0239@example.com,Ioannina,Epirus,2025-07-17
+240,Sofia,Theodorou,customer0240@example.com,Rhodes,South Aegean,2024-03-02
+241,Sofia,Spirou,customer0241@example.com,Ioannina,Epirus,2025-04-14
+242,Irene,Papadopoulos,customer0242@example.com,Kalamata,Peloponnese,2023-06-17
+243,Sofia,Pappas,customer0243@example.com,Athens,Attica,2024-07-09
+244,John,Theodorou,customer0244@example.com,Athens,Attica,2023-01-12
+245,Irene,Theodorou,customer0245@example.com,Athens,Attica,2025-06-16
+246,Anna,Ioannou,customer0246@example.com,Larissa,Thessaly,2025-01-23
+247,Sofia,Theodorou,customer0247@example.com,Larissa,Thessaly,2025-04-28
+248,Elena,Antoniou,customer0248@example.com,Chania,Crete,2024-08-27
+249,Maria,Karakas,customer0249@example.com,Thessaloniki,Central Macedonia,2024-08-24
+250,Olga,Dimitriou,customer0250@example.com,Thessaloniki,Central Macedonia,2023-04-25
+251,Dimitris,Karakas,customer0251@example.com,Larissa,Thessaly,2023-07-15
+252,Petros,Kostas,customer0252@example.com,Heraklion,Crete,2024-09-17
+253,Katerina,Karakas,customer0253@example.com,Athens,Attica,2024-02-17
+254,Anna,Dimitriou,customer0254@example.com,Ioannina,Epirus,2024-12-29
+255,Alex,Mavridis,customer0255@example.com,Heraklion,Crete,2025-01-30
+256,Dimitris,Antoniou,customer0256@example.com,Volos,Thessaly,2025-05-18
+257,John,Ioannou,customer0257@example.com,Heraklion,Crete,2023-07-11
+258,Nikos,Theodorou,customer0258@example.com,Thessaloniki,Central Macedonia,2023-04-09
+259,Chris,Kostas,customer0259@example.com,Athens,Attica,2025-09-04
+260,Andreas,Antoniou,customer0260@example.com,Thessaloniki,Central Macedonia,2023-04-06
+261,Daphne,Kostas,customer0261@example.com,Heraklion,Crete,2023-07-09
+262,Alex,Georgiou,customer0262@example.com,Thessaloniki,Central Macedonia,2025-02-18
+263,Chris,Nikolaidis,customer0263@example.com,Volos,Thessaly,2024-06-08
+264,Stavros,Ioannou,customer0264@example.com,Athens,Attica,2025-05-16
+265,Maria,Georgiou,customer0265@example.com,Heraklion,Crete,2023-09-30
+266,Eva,Antoniou,customer0266@example.com,Ioannina,Epirus,2024-08-18
+267,Eleni,Pappas,customer0267@example.com,Thessaloniki,Central Macedonia,2023-12-08
+268,John,Antoniou,customer0268@example.com,Thessaloniki,Central Macedonia,2023-01-19
+269,Eva,Christou,customer0269@example.com,Rhodes,South Aegean,2024-01-31
+270,Elena,Antoniou,customer0270@example.com,Athens,Attica,2025-07-03
+271,Stavros,Dimitriou,customer0271@example.com,Rhodes,South Aegean,2024-03-30
+272,Chris,Papadopoulos,customer0272@example.com,Rhodes,South Aegean,2025-01-04
+273,Irene,Papadopoulos,customer0273@example.com,Patras,Western Greece,2025-04-30
+274,Andreas,Spirou,customer0274@example.com,Patras,Western Greece,2023-05-24
+275,Daphne,Mavridis,customer0275@example.com,Heraklion,Crete,2023-04-09
+276,Dimitris,Kostas,customer0276@example.com,Larissa,Thessaly,2025-08-05
+277,Irene,Georgiou,customer0277@example.com,Rhodes,South Aegean,2024-04-28
+278,John,Alexiou,customer0278@example.com,Ioannina,Epirus,2023-05-24
+279,John,Mavridis,customer0279@example.com,Kalamata,Peloponnese,2023-04-19
+280,Elena,Pappas,customer0280@example.com,Athens,Attica,2023-07-05
+281,Katerina,Christou,customer0281@example.com,Athens,Attica,2023-08-11
+282,Katerina,Mavridis,customer0282@example.com,Chania,Crete,2023-06-12
+283,Irene,Kostas,customer0283@example.com,Larissa,Thessaly,2023-08-23
+284,Michael,Pappas,customer0284@example.com,Athens,Attica,2025-01-20
+285,Katerina,Christou,customer0285@example.com,Chania,Crete,2023-03-15
+286,George,Dimitriou,customer0286@example.com,Athens,Attica,2025-07-01
+287,Irene,Mavridis,customer0287@example.com,Thessaloniki,Central Macedonia,2024-06-02
+288,Michael,Mavridis,customer0288@example.com,Athens,Attica,2023-06-17
+289,Sofia,Alexiou,customer0289@example.com,Kalamata,Peloponnese,2025-08-03
+290,Stavros,Ioannou,customer0290@example.com,Athens,Attica,2023-07-13
+291,Michael,Christou,customer0291@example.com,Athens,Attica,2023-06-14
+292,Alex,Ioannou,customer0292@example.com,Thessaloniki,Central Macedonia,2024-10-09
+293,Katerina,Dimitriou,customer0293@example.com,Chania,Crete,2025-04-12
+294,Irene,Theodorou,customer0294@example.com,Rhodes,South Aegean,2024-10-18
+295,Stavros,Alexiou,customer0295@example.com,Heraklion,Crete,2023-08-05
+296,John,Vasilis,customer0296@example.com,Thessaloniki,Central Macedonia,2025-03-14
+297,Petros,Vasilis,customer0297@example.com,Patras,Western Greece,2024-02-19
+298,Dimitris,Christou,customer0298@example.com,Heraklion,Crete,2025-05-25
+299,Olga,Theodorou,customer0299@example.com,Athens,Attica,2023-04-01
+300,Sofia,Mavridis,customer0300@example.com,Athens,Attica,2024-06-14
+301,Nikos,Ioannou,customer0301@example.com,Athens,Attica,2024-03-26
+302,Andreas,Mavridis,customer0302@example.com,Patras,Western Greece,2025-01-23
+303,Eva,Kostas,customer0303@example.com,Volos,Thessaly,2023-02-27
+304,Nikos,Karakas,customer0304@example.com,Athens,Attica,2024-03-31
+305,Anna,Mavridis,customer0305@example.com,Volos,Thessaly,2023-12-27
+306,Katerina,Dimitriou,customer0306@example.com,Heraklion,Crete,2024-01-22
+307,Dimitris,Nikolaidis,customer0307@example.com,Thessaloniki,Central Macedonia,2023-07-09
+308,Alex,Papadopoulos,customer0308@example.com,Thessaloniki,Central Macedonia,2024-05-22
+309,Anna,Vasilis,customer0309@example.com,Patras,Western Greece,2025-04-03
+310,Eva,Karakas,customer0310@example.com,Rhodes,South Aegean,2023-04-27
+311,Nikos,Vasilis,customer0311@example.com,Rhodes,South Aegean,2024-07-09
+312,Irene,Spirou,customer0312@example.com,Athens,Attica,2023-06-22
+313,Stavros,Dimitriou,customer0313@example.com,Athens,Attica,2023-05-29
+314,Michael,Vasilis,customer0314@example.com,Rhodes,South Aegean,2023-08-01
+315,Michael,Dimitriou,customer0315@example.com,Athens,Attica,2023-08-17
+316,George,Mavridis,customer0316@example.com,Rhodes,South Aegean,2024-10-20
+317,Alex,Spirou,customer0317@example.com,Athens,Attica,2024-02-06
+318,Elena,Theodorou,customer0318@example.com,Larissa,Thessaly,2023-11-01
+319,Irene,Dimitriou,customer0319@example.com,Rhodes,South Aegean,2024-02-19
+320,Sofia,Theodorou,customer0320@example.com,Heraklion,Crete,2024-07-19
+321,Andreas,Vasilis,customer0321@example.com,Volos,Thessaly,2024-10-17
+322,Maria,Christou,customer0322@example.com,Thessaloniki,Central Macedonia,2025-08-28
+323,Anna,Spirou,customer0323@example.com,Athens,Attica,2025-01-05
+324,Elena,Vasilis,customer0324@example.com,Patras,Western Greece,2023-12-24
+325,George,Theodorou,customer0325@example.com,Thessaloniki,Central Macedonia,2024-10-29
+326,Petros,Mavridis,customer0326@example.com,Athens,Attica,2023-05-02
+327,Andreas,Christou,customer0327@example.com,Thessaloniki,Central Macedonia,2023-03-31
+328,Eva,Kostas,customer0328@example.com,Heraklion,Crete,2023-11-12
+329,Petros,Alexiou,customer0329@example.com,Thessaloniki,Central Macedonia,2025-01-01
+330,Andreas,Antoniou,customer0330@example.com,Rhodes,South Aegean,2025-01-09
+331,Daphne,Vasilis,customer0331@example.com,Athens,Attica,2024-05-16
+332,Sofia,Pappas,customer0332@example.com,Thessaloniki,Central Macedonia,2023-07-20
+333,Olga,Vasilis,customer0333@example.com,Heraklion,Crete,2024-12-24
+334,Chris,Theodorou,customer0334@example.com,Athens,Attica,2025-01-21
+335,Anna,Karakas,customer0335@example.com,Athens,Attica,2024-07-11
+336,Chris,Theodorou,customer0336@example.com,Rhodes,South Aegean,2024-01-25
+337,Andreas,Vasilis,customer0337@example.com,Heraklion,Crete,2023-09-13
+338,Anna,Ioannou,customer0338@example.com,Thessaloniki,Central Macedonia,2025-07-09
+339,Petros,Georgiou,customer0339@example.com,Chania,Crete,2025-04-03
+340,Katerina,Dimitriou,customer0340@example.com,Athens,Attica,2023-09-08
+341,Chris,Kostas,customer0341@example.com,Thessaloniki,Central Macedonia,2023-04-29
+342,John,Spirou,customer0342@example.com,Ioannina,Epirus,2024-01-09
+343,Daphne,Georgiou,customer0343@example.com,Rhodes,South Aegean,2023-08-12
+344,George,Nikolaidis,customer0344@example.com,Heraklion,Crete,2025-02-17
+345,Anna,Antoniou,customer0345@example.com,Thessaloniki,Central Macedonia,2023-03-04
+346,George,Pappas,customer0346@example.com,Chania,Crete,2025-04-06
+347,Dimitris,Georgiou,customer0347@example.com,Athens,Attica,2024-04-05
+348,Irene,Antoniou,customer0348@example.com,Thessaloniki,Central Macedonia,2023-04-15
+349,John,Christou,customer0349@example.com,Athens,Attica,2024-01-20
+350,Petros,Antoniou,customer0350@example.com,Chania,Crete,2025-04-02
+351,Maria,Dimitriou,customer0351@example.com,Heraklion,Crete,2025-09-03
+352,Irene,Antoniou,customer0352@example.com,Rhodes,South Aegean,2024-10-06
+353,Stavros,Pappas,customer0353@example.com,Heraklion,Crete,2024-03-12
+354,Alex,Karakas,customer0354@example.com,Rhodes,South Aegean,2024-07-18
+355,Stavros,Antoniou,customer0355@example.com,Thessaloniki,Central Macedonia,2024-04-02
+356,Olga,Papadopoulos,customer0356@example.com,Patras,Western Greece,2023-03-26
+357,Eleni,Ioannou,customer0357@example.com,Athens,Attica,2025-05-27
+358,Michael,Karakas,customer0358@example.com,Heraklion,Crete,2024-11-15
+359,Irene,Christou,customer0359@example.com,Chania,Crete,2024-03-21
+360,Daphne,Theodorou,customer0360@example.com,Heraklion,Crete,2024-05-02
+361,Eva,Spirou,customer0361@example.com,Athens,Attica,2023-12-14
+362,Anna,Vasilis,customer0362@example.com,Larissa,Thessaly,2024-07-04
+363,Anna,Ioannou,customer0363@example.com,Patras,Western Greece,2024-11-04
+364,Irene,Vasilis,customer0364@example.com,Patras,Western Greece,2025-02-09
+365,Alex,Antoniou,customer0365@example.com,Ioannina,Epirus,2023-09-25
+366,John,Mavridis,customer0366@example.com,Heraklion,Crete,2023-08-24
+367,Michael,Pappas,customer0367@example.com,Ioannina,Epirus,2025-01-03
+368,Sofia,Karakas,customer0368@example.com,Athens,Attica,2024-02-05
+369,Petros,Spirou,customer0369@example.com,Thessaloniki,Central Macedonia,2023-10-30
+370,George,Alexiou,customer0370@example.com,Heraklion,Crete,2023-08-17
+371,Daphne,Papadopoulos,customer0371@example.com,Ioannina,Epirus,2024-07-31
+372,Michael,Alexiou,customer0372@example.com,Athens,Attica,2023-04-13
+373,Stavros,Mavridis,customer0373@example.com,Rhodes,South Aegean,2025-02-02
+374,Alex,Georgiou,customer0374@example.com,Heraklion,Crete,2023-11-02
+375,Irene,Nikolaidis,customer0375@example.com,Heraklion,Crete,2025-03-08
+376,Petros,Nikolaidis,customer0376@example.com,Kalamata,Peloponnese,2024-03-10
+377,Maria,Ioannou,customer0377@example.com,Heraklion,Crete,2023-11-04
+378,Michael,Kostas,customer0378@example.com,Ioannina,Epirus,2024-04-25
+379,Dimitris,Vasilis,customer0379@example.com,Heraklion,Crete,2024-06-25
+380,John,Kostas,customer0380@example.com,Larissa,Thessaly,2024-07-16
+381,Michael,Ioannou,customer0381@example.com,Athens,Attica,2025-03-07
+382,Irene,Ioannou,customer0382@example.com,Chania,Crete,2023-07-03
+383,Nikos,Vasilis,customer0383@example.com,Athens,Attica,2025-02-23
+384,Alex,Pappas,customer0384@example.com,Athens,Attica,2025-09-10
+385,Daphne,Papadopoulos,customer0385@example.com,Patras,Western Greece,2025-02-12
+386,Eleni,Dimitriou,customer0386@example.com,Athens,Attica,2023-07-24
+387,Nikos,Theodorou,customer0387@example.com,Athens,Attica,2023-02-12
+388,Maria,Theodorou,customer0388@example.com,Heraklion,Crete,2025-06-01
+389,Alex,Dimitriou,customer0389@example.com,Athens,Attica,2024-10-24
+390,Dimitris,Karakas,customer0390@example.com,Thessaloniki,Central Macedonia,2023-04-05
+391,Alex,Alexiou,customer0391@example.com,Larissa,Thessaly,2025-06-30
+392,George,Dimitriou,customer0392@example.com,Larissa,Thessaly,2023-12-26
+393,George,Vasilis,customer0393@example.com,Kalamata,Peloponnese,2023-10-08
+394,Elena,Alexiou,customer0394@example.com,Patras,Western Greece,2023-07-14
+395,Dimitris,Vasilis,customer0395@example.com,Athens,Attica,2024-11-02
+396,Chris,Theodorou,customer0396@example.com,Athens,Attica,2024-09-25
+397,Eleni,Nikolaidis,customer0397@example.com,Athens,Attica,2025-02-27
+398,Eva,Alexiou,customer0398@example.com,Thessaloniki,Central Macedonia,2024-08-26
+399,Elena,Theodorou,customer0399@example.com,Athens,Attica,2024-06-17
+400,Sofia,Ioannou,customer0400@example.com,Heraklion,Crete,2024-05-27
+401,Elena,Alexiou,customer0401@example.com,Athens,Attica,2024-06-07
+402,Alex,Spirou,customer0402@example.com,Athens,Attica,2024-06-29
+403,Katerina,Alexiou,customer0403@example.com,Larissa,Thessaly,2024-12-30
+404,Michael,Antoniou,customer0404@example.com,Athens,Attica,2023-03-14
+405,Dimitris,Georgiou,customer0405@example.com,Heraklion,Crete,2023-02-16
+406,Stavros,Pappas,customer0406@example.com,Patras,Western Greece,2023-08-27
+407,Anna,Georgiou,customer0407@example.com,Kalamata,Peloponnese,2023-04-17
+408,Katerina,Karakas,customer0408@example.com,Athens,Attica,2024-07-26
+409,Eva,Theodorou,customer0409@example.com,Ioannina,Epirus,2025-03-14
+410,Elena,Theodorou,customer0410@example.com,Heraklion,Crete,2024-09-16
+411,Stavros,Theodorou,customer0411@example.com,Athens,Attica,2024-11-22
+412,Maria,Kostas,customer0412@example.com,Kalamata,Peloponnese,2024-09-30
+413,Daphne,Antoniou,customer0413@example.com,Heraklion,Crete,2024-06-09
+414,Eleni,Georgiou,customer0414@example.com,Heraklion,Crete,2025-09-09
+415,Andreas,Mavridis,customer0415@example.com,Volos,Thessaly,2024-01-21
+416,John,Papadopoulos,customer0416@example.com,Athens,Attica,2024-06-09
+417,Irene,Karakas,customer0417@example.com,Volos,Thessaly,2025-06-01
+418,Olga,Georgiou,customer0418@example.com,Chania,Crete,2024-09-14
+419,Irene,Kostas,customer0419@example.com,Heraklion,Crete,2023-12-29
+420,Petros,Pappas,customer0420@example.com,Patras,Western Greece,2023-10-01
+421,George,Antoniou,customer0421@example.com,Thessaloniki,Central Macedonia,2025-01-08
+422,Sofia,Pappas,customer0422@example.com,Athens,Attica,2023-07-11
+423,Andreas,Mavridis,customer0423@example.com,Athens,Attica,2024-04-29
+424,Chris,Alexiou,customer0424@example.com,Thessaloniki,Central Macedonia,2023-02-08
+425,Daphne,Theodorou,customer0425@example.com,Athens,Attica,2023-08-19
+426,Olga,Vasilis,customer0426@example.com,Athens,Attica,2023-05-06
+427,Irene,Karakas,customer0427@example.com,Thessaloniki,Central Macedonia,2023-05-25
+428,Stavros,Ioannou,customer0428@example.com,Larissa,Thessaly,2023-01-25
+429,John,Karakas,customer0429@example.com,Larissa,Thessaly,2023-03-08
+430,Anna,Karakas,customer0430@example.com,Athens,Attica,2023-05-26
+431,Nikos,Ioannou,customer0431@example.com,Volos,Thessaly,2023-04-21
+432,Petros,Dimitriou,customer0432@example.com,Volos,Thessaly,2024-09-14
+433,Petros,Alexiou,customer0433@example.com,Heraklion,Crete,2024-01-04
+434,Eva,Mavridis,customer0434@example.com,Thessaloniki,Central Macedonia,2024-07-07
+435,Michael,Kostas,customer0435@example.com,Kalamata,Peloponnese,2024-06-01
+436,Alex,Vasilis,customer0436@example.com,Heraklion,Crete,2023-11-16
+437,John,Nikolaidis,customer0437@example.com,Patras,Western Greece,2025-08-09
+438,Olga,Dimitriou,customer0438@example.com,Heraklion,Crete,2025-08-23
+439,Eleni,Theodorou,customer0439@example.com,Athens,Attica,2023-10-16
+440,Chris,Kostas,customer0440@example.com,Athens,Attica,2023-10-04
+441,Chris,Spirou,customer0441@example.com,Patras,Western Greece,2024-05-17
+442,Eva,Pappas,customer0442@example.com,Athens,Attica,2023-12-16
+443,Chris,Christou,customer0443@example.com,Ioannina,Epirus,2025-04-09
+444,Alex,Christou,customer0444@example.com,Kalamata,Peloponnese,2024-10-25
+445,Dimitris,Georgiou,customer0445@example.com,Athens,Attica,2025-01-28
+446,Anna,Pappas,customer0446@example.com,Thessaloniki,Central Macedonia,2024-06-26
+447,Irene,Vasilis,customer0447@example.com,Rhodes,South Aegean,2024-07-01
+448,Daphne,Theodorou,customer0448@example.com,Thessaloniki,Central Macedonia,2023-01-06
+449,Anna,Pappas,customer0449@example.com,Kalamata,Peloponnese,2025-01-01
+450,Olga,Mavridis,customer0450@example.com,Ioannina,Epirus,2025-04-26
+451,Olga,Vasilis,customer0451@example.com,Patras,Western Greece,2025-05-30
+452,Alex,Georgiou,customer0452@example.com,Larissa,Thessaly,2025-09-24
+453,Katerina,Dimitriou,customer0453@example.com,Volos,Thessaly,2024-03-16
+454,Michael,Pappas,customer0454@example.com,Heraklion,Crete,2024-12-15
+455,Anna,Ioannou,customer0455@example.com,Chania,Crete,2024-03-10
+456,Stavros,Kostas,customer0456@example.com,Athens,Attica,2024-10-06
+457,Olga,Christou,customer0457@example.com,Volos,Thessaly,2023-04-28
+458,Andreas,Kostas,customer0458@example.com,Patras,Western Greece,2024-12-24
+459,Irene,Pappas,customer0459@example.com,Patras,Western Greece,2023-04-23
+460,Daphne,Kostas,customer0460@example.com,Heraklion,Crete,2023-01-01
+461,Eleni,Pappas,customer0461@example.com,Athens,Attica,2023-11-16
+462,Petros,Ioannou,customer0462@example.com,Athens,Attica,2025-06-12
+463,Katerina,Ioannou,customer0463@example.com,Thessaloniki,Central Macedonia,2025-05-17
+464,Anna,Georgiou,customer0464@example.com,Athens,Attica,2023-09-16
+465,Dimitris,Kostas,customer0465@example.com,Patras,Western Greece,2024-11-20
+466,Elena,Pappas,customer0466@example.com,Athens,Attica,2023-09-18
+467,Daphne,Theodorou,customer0467@example.com,Athens,Attica,2023-06-21
+468,Sofia,Dimitriou,customer0468@example.com,Ioannina,Epirus,2023-06-17
+469,Dimitris,Pappas,customer0469@example.com,Athens,Attica,2023-11-17
+470,Olga,Ioannou,customer0470@example.com,Volos,Thessaly,2023-11-25
+471,Stavros,Theodorou,customer0471@example.com,Patras,Western Greece,2025-08-28
+472,Andreas,Alexiou,customer0472@example.com,Thessaloniki,Central Macedonia,2024-07-03
+473,Katerina,Georgiou,customer0473@example.com,Athens,Attica,2024-08-28
+474,Dimitris,Ioannou,customer0474@example.com,Chania,Crete,2024-08-03
+475,Anna,Kostas,customer0475@example.com,Thessaloniki,Central Macedonia,2023-08-24
+476,Sofia,Ioannou,customer0476@example.com,Volos,Thessaly,2025-06-03
+477,Alex,Pappas,customer0477@example.com,Athens,Attica,2023-05-17
+478,Daphne,Nikolaidis,customer0478@example.com,Athens,Attica,2025-09-21
+479,Chris,Papadopoulos,customer0479@example.com,Volos,Thessaly,2023-10-23
+480,Maria,Christou,customer0480@example.com,Chania,Crete,2024-07-25
+481,Katerina,Pappas,customer0481@example.com,Ioannina,Epirus,2025-04-19
+482,George,Mavridis,customer0482@example.com,Athens,Attica,2023-08-17
+483,Olga,Georgiou,customer0483@example.com,Ioannina,Epirus,2025-03-08
+484,Alex,Alexiou,customer0484@example.com,Ioannina,Epirus,2023-06-14
+485,Katerina,Vasilis,customer0485@example.com,Larissa,Thessaly,2024-01-14
+486,Olga,Vasilis,customer0486@example.com,Thessaloniki,Central Macedonia,2024-07-27
+487,John,Nikolaidis,customer0487@example.com,Heraklion,Crete,2025-01-18
+488,Maria,Ioannou,customer0488@example.com,Ioannina,Epirus,2024-02-06
+489,Olga,Georgiou,customer0489@example.com,Volos,Thessaly,2023-10-22
+490,Nikos,Antoniou,customer0490@example.com,Patras,Western Greece,2025-03-10
+491,Olga,Georgiou,customer0491@example.com,Heraklion,Crete,2024-02-26
+492,Stavros,Mavridis,customer0492@example.com,Patras,Western Greece,2024-07-28
+493,Maria,Nikolaidis,customer0493@example.com,Thessaloniki,Central Macedonia,2024-10-26
+494,George,Theodorou,customer0494@example.com,Heraklion,Crete,2024-05-17
+495,Stavros,Ioannou,customer0495@example.com,Kalamata,Peloponnese,2025-03-31
+496,Nikos,Dimitriou,customer0496@example.com,Heraklion,Crete,2025-08-04
+497,Elena,Christou,customer0497@example.com,Kalamata,Peloponnese,2023-07-17
+498,Irene,Alexiou,customer0498@example.com,Volos,Thessaly,2024-01-26
+499,Eva,Theodorou,customer0499@example.com,Athens,Attica,2024-07-07
+500,Eva,Dimitriou,customer0500@example.com,Chania,Crete,2023-01-15

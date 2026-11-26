@@ -1,0 +1,1801 @@
+order_id,customer_id,order_date,order_status,payment_method
+1,461,2025-03-09,Delivered,Bank Transfer
+2,441,2025-06-06,Delivered,Credit Card
+3,364,2025-09-26,Delivered,PayPal
+4,45,2024-08-12,Cancelled,Credit Card
+5,121,2025-03-19,Delivered,Credit Card
+6,264,2025-07-12,Delivered,PayPal
+7,8,2024-07-07,Delivered,Credit Card
+8,168,2024-12-01,Delivered,PayPal
+9,298,2025-11-23,Delivered,Credit Card
+10,342,2025-02-27,Delivered,Bank Transfer
+11,297,2025-09-02,Delivered,Cash on Delivery
+12,263,2025-08-14,Delivered,Credit Card
+13,297,2025-11-24,Delivered,PayPal
+14,404,2025-04-22,Delivered,PayPal
+15,187,2024-10-01,Cancelled,Credit Card
+16,285,2025-11-01,Delivered,Credit Card
+17,466,2025-03-17,Delivered,Bank Transfer
+18,189,2025-09-05,Delivered,PayPal
+19,351,2025-11-29,Delivered,Credit Card
+20,164,2024-08-11,Cancelled,Credit Card
+21,71,2025-11-15,Delivered,Credit Card
+22,284,2025-07-18,Delivered,PayPal
+23,247,2025-08-10,Delivered,Bank Transfer
+24,356,2024-11-14,Delivered,Credit Card
+25,150,2025-07-09,Delivered,Bank Transfer
+26,440,2025-07-04,Delivered,Credit Card
+27,58,2025-06-20,Delivered,Bank Transfer
+28,47,2025-10-14,Delivered,Cash on Delivery
+29,244,2025-11-04,Delivered,Credit Card
+30,145,2025-08-03,Delivered,Credit Card
+31,51,2025-06-22,Delivered,PayPal
+32,285,2024-12-04,Delivered,Credit Card
+33,353,2025-01-11,Delivered,Bank Transfer
+34,253,2024-10-23,Delivered,Bank Transfer
+35,64,2025-08-11,Delivered,PayPal
+36,489,2024-12-02,Delivered,PayPal
+37,304,2024-05-23,Cancelled,Credit Card
+38,80,2024-11-28,Delivered,Credit Card
+39,142,2025-11-24,Delivered,Credit Card
+40,456,2025-11-01,Delivered,PayPal
+41,233,2024-07-31,Delivered,Credit Card
+42,63,2025-10-05,Delivered,Credit Card
+43,444,2025-05-15,Delivered,Bank Transfer
+44,422,2025-11-03,Cancelled,Credit Card
+45,86,2025-06-07,Delivered,Bank Transfer
+46,347,2025-06-24,Delivered,Credit Card
+47,39,2025-02-07,Delivered,Credit Card
+48,108,2025-05-14,Delivered,Bank Transfer
+49,429,2025-02-19,Delivered,Credit Card
+50,124,2025-12-09,Delivered,PayPal
+51,451,2025-07-18,Delivered,Credit Card
+52,184,2025-12-30,Cancelled,Credit Card
+53,63,2025-02-19,Delivered,Credit Card
+54,77,2025-10-25,Delivered,PayPal
+55,447,2025-07-12,Delivered,Credit Card
+56,326,2024-06-15,Delivered,Credit Card
+57,196,2024-08-15,Delivered,Bank Transfer
+58,124,2025-11-26,Delivered,Credit Card
+59,495,2025-11-01,Delivered,Credit Card
+60,14,2025-08-10,Delivered,Credit Card
+61,49,2025-08-07,Delivered,Credit Card
+62,31,2025-08-05,Delivered,PayPal
+63,302,2025-04-14,Delivered,Credit Card
+64,6,2024-01-17,Delivered,Credit Card
+65,2,2024-03-20,Delivered,Credit Card
+66,232,2025-03-04,Delivered,Cash on Delivery
+67,308,2025-02-23,Delivered,Credit Card
+68,122,2024-03-03,Delivered,PayPal
+69,31,2025-08-18,Cancelled,Bank Transfer
+70,306,2024-10-03,Delivered,Credit Card
+71,144,2025-08-31,Delivered,Credit Card
+72,223,2025-03-05,Delivered,Credit Card
+73,342,2025-03-06,Delivered,Credit Card
+74,14,2025-01-02,Delivered,PayPal
+75,438,2025-10-12,Delivered,Credit Card
+76,280,2024-01-17,Delivered,PayPal
+77,186,2025-11-26,Delivered,Credit Card
+78,273,2025-11-12,Delivered,Bank Transfer
+79,274,2025-10-12,Delivered,PayPal
+80,103,2024-11-27,Returned,Credit Card
+81,446,2025-01-02,Delivered,PayPal
+82,229,2024-03-08,Delivered,Cash on Delivery
+83,338,2025-12-25,Delivered,PayPal
+84,23,2024-03-06,Delivered,Credit Card
+85,374,2025-08-25,Delivered,Bank Transfer
+86,15,2025-05-03,Delivered,Credit Card
+87,231,2025-06-07,Delivered,Credit Card
+88,212,2025-01-12,Delivered,PayPal
+89,15,2025-08-14,Delivered,Credit Card
+90,162,2025-04-18,Delivered,Credit Card
+91,432,2025-11-12,Delivered,Credit Card
+92,98,2025-06-12,Delivered,Credit Card
+93,250,2025-01-18,Delivered,Bank Transfer
+94,284,2025-11-08,Cancelled,Credit Card
+95,273,2025-10-04,Delivered,Credit Card
+96,454,2025-08-02,Returned,Credit Card
+97,337,2024-05-14,Delivered,PayPal
+98,230,2025-08-30,Delivered,PayPal
+99,170,2025-01-16,Delivered,Cash on Delivery
+100,96,2024-12-08,Delivered,Credit Card
+101,17,2024-08-31,Delivered,Credit Card
+102,374,2024-04-12,Cancelled,Cash on Delivery
+103,25,2025-12-06,Delivered,PayPal
+104,123,2025-02-26,Delivered,Credit Card
+105,205,2025-07-19,Delivered,Credit Card
+106,94,2025-07-19,Delivered,PayPal
+107,345,2025-04-28,Delivered,Credit Card
+108,170,2025-07-09,Delivered,Credit Card
+109,143,2025-08-11,Delivered,Credit Card
+110,69,2024-01-13,Delivered,Credit Card
+111,465,2025-05-03,Delivered,Credit Card
+112,215,2024-01-18,Delivered,Credit Card
+113,491,2024-09-28,Delivered,Bank Transfer
+114,125,2025-09-08,Delivered,Bank Transfer
+115,255,2025-04-30,Delivered,Bank Transfer
+116,90,2025-10-21,Delivered,PayPal
+117,275,2025-08-26,Delivered,Cash on Delivery
+118,406,2025-10-29,Delivered,Credit Card
+119,160,2024-11-25,Delivered,PayPal
+120,83,2025-11-14,Cancelled,Credit Card
+121,40,2024-10-03,Delivered,PayPal
+122,466,2025-07-30,Returned,Credit Card
+123,102,2025-06-10,Delivered,Credit Card
+124,346,2025-08-15,Delivered,Credit Card
+125,194,2025-08-05,Delivered,Bank Transfer
+126,254,2025-02-06,Delivered,Credit Card
+127,71,2025-05-01,Delivered,Cash on Delivery
+128,2,2025-03-31,Delivered,Bank Transfer
+129,83,2025-12-24,Delivered,Credit Card
+130,6,2024-07-08,Delivered,PayPal
+131,407,2025-06-28,Delivered,Cash on Delivery
+132,12,2025-01-28,Delivered,Credit Card
+133,439,2024-09-03,Delivered,PayPal
+134,119,2024-03-17,Delivered,Credit Card
+135,4,2024-08-01,Cancelled,Credit Card
+136,402,2024-10-03,Delivered,Cash on Delivery
+137,252,2025-05-26,Delivered,Credit Card
+138,241,2025-12-12,Delivered,PayPal
+139,113,2025-01-02,Delivered,Credit Card
+140,317,2024-04-10,Delivered,Cash on Delivery
+141,330,2025-02-11,Delivered,Credit Card
+142,244,2024-12-03,Delivered,Credit Card
+143,10,2025-07-14,Delivered,PayPal
+144,308,2025-07-12,Delivered,Bank Transfer
+145,269,2025-12-06,Delivered,Credit Card
+146,250,2025-09-10,Delivered,Credit Card
+147,374,2025-04-29,Delivered,PayPal
+148,93,2024-12-17,Delivered,Credit Card
+149,446,2024-11-07,Delivered,Credit Card
+150,308,2024-07-26,Cancelled,Credit Card
+151,296,2025-08-04,Delivered,Credit Card
+152,218,2024-10-23,Delivered,Credit Card
+153,143,2025-08-24,Delivered,PayPal
+154,37,2025-10-11,Delivered,Credit Card
+155,14,2025-11-06,Delivered,Credit Card
+156,377,2025-11-28,Delivered,Credit Card
+157,378,2024-04-27,Delivered,Bank Transfer
+158,216,2024-05-05,Delivered,Cash on Delivery
+159,393,2025-05-08,Delivered,Credit Card
+160,288,2024-08-06,Delivered,Credit Card
+161,122,2025-11-15,Delivered,Credit Card
+162,185,2025-12-20,Delivered,Credit Card
+163,436,2024-12-19,Delivered,Credit Card
+164,367,2025-08-06,Delivered,PayPal
+165,151,2025-01-16,Delivered,Credit Card
+166,85,2025-11-08,Delivered,PayPal
+167,259,2025-11-23,Delivered,PayPal
+168,246,2025-08-02,Delivered,Credit Card
+169,359,2024-09-02,Delivered,Credit Card
+170,110,2024-04-29,Delivered,PayPal
+171,174,2025-11-17,Delivered,Bank Transfer
+172,109,2025-10-07,Delivered,PayPal
+173,470,2024-03-30,Delivered,PayPal
+174,286,2025-09-03,Delivered,Credit Card
+175,182,2024-11-26,Delivered,Credit Card
+176,341,2025-06-17,Delivered,PayPal
+177,446,2024-09-10,Delivered,Cash on Delivery
+178,286,2025-09-10,Delivered,Cash on Delivery
+179,103,2024-11-26,Cancelled,Credit Card
+180,498,2024-06-26,Delivered,Credit Card
+181,261,2025-05-16,Delivered,Credit Card
+182,408,2025-01-22,Delivered,Credit Card
+183,37,2025-12-21,Delivered,PayPal
+184,482,2025-10-03,Delivered,PayPal
+185,338,2025-08-11,Delivered,Credit Card
+186,265,2025-04-16,Delivered,PayPal
+187,369,2025-10-21,Delivered,Credit Card
+188,11,2024-03-23,Delivered,Credit Card
+189,411,2025-04-06,Delivered,Cash on Delivery
+190,237,2025-06-29,Delivered,Credit Card
+191,324,2025-03-03,Delivered,Credit Card
+192,70,2024-06-13,Delivered,Credit Card
+193,234,2024-06-27,Delivered,PayPal
+194,453,2025-01-27,Delivered,Credit Card
+195,303,2024-08-22,Cancelled,Credit Card
+196,206,2025-12-01,Cancelled,PayPal
+197,188,2025-11-06,Delivered,Cash on Delivery
+198,134,2025-10-25,Delivered,Credit Card
+199,42,2024-11-02,Delivered,Credit Card
+200,364,2025-05-17,Delivered,Credit Card
+201,342,2025-11-10,Delivered,Bank Transfer
+202,27,2025-02-20,Delivered,Credit Card
+203,382,2025-09-21,Delivered,PayPal
+204,249,2025-03-11,Delivered,PayPal
+205,102,2024-02-14,Delivered,PayPal
+206,58,2025-07-10,Delivered,Credit Card
+207,154,2025-03-12,Delivered,PayPal
+208,267,2024-02-21,Delivered,Bank Transfer
+209,284,2025-05-05,Delivered,PayPal
+210,283,2024-06-13,Delivered,Bank Transfer
+211,14,2024-06-05,Delivered,Credit Card
+212,340,2024-11-01,Delivered,Credit Card
+213,330,2025-09-03,Delivered,Credit Card
+214,320,2024-12-09,Delivered,PayPal
+215,395,2025-07-17,Delivered,Credit Card
+216,12,2025-12-23,Delivered,Credit Card
+217,157,2024-12-02,Delivered,Credit Card
+218,37,2025-05-29,Delivered,PayPal
+219,350,2025-05-15,Delivered,Credit Card
+220,431,2024-08-19,Delivered,Cash on Delivery
+221,269,2025-06-10,Delivered,PayPal
+222,264,2025-08-29,Delivered,Cash on Delivery
+223,498,2024-12-03,Delivered,PayPal
+224,451,2025-10-04,Delivered,PayPal
+225,192,2025-11-19,Delivered,PayPal
+226,475,2024-07-08,Delivered,Credit Card
+227,67,2025-08-30,Delivered,Cash on Delivery
+228,338,2025-11-14,Delivered,Credit Card
+229,374,2025-02-09,Delivered,Credit Card
+230,36,2025-08-29,Delivered,Credit Card
+231,230,2025-07-06,Delivered,Credit Card
+232,336,2024-10-04,Delivered,PayPal
+233,326,2024-07-10,Delivered,Credit Card
+234,378,2025-09-17,Delivered,Cash on Delivery
+235,270,2025-07-12,Delivered,Credit Card
+236,467,2024-07-21,Cancelled,Credit Card
+237,177,2024-09-25,Cancelled,Cash on Delivery
+238,365,2024-07-18,Delivered,PayPal
+239,146,2025-01-20,Delivered,PayPal
+240,214,2025-06-26,Delivered,Credit Card
+241,111,2025-06-19,Delivered,Credit Card
+242,171,2025-05-04,Delivered,Credit Card
+243,288,2024-11-28,Delivered,Bank Transfer
+244,13,2025-10-21,Delivered,PayPal
+245,22,2025-05-12,Delivered,Bank Transfer
+246,242,2024-01-23,Delivered,Credit Card
+247,341,2025-06-10,Returned,Credit Card
+248,100,2025-11-09,Delivered,Bank Transfer
+249,51,2025-11-26,Delivered,Cash on Delivery
+250,351,2025-09-30,Delivered,PayPal
+251,122,2025-02-13,Delivered,Credit Card
+252,316,2025-07-01,Returned,Credit Card
+253,126,2025-08-14,Delivered,Cash on Delivery
+254,284,2025-07-24,Cancelled,Bank Transfer
+255,180,2025-08-16,Delivered,Credit Card
+256,472,2024-09-05,Delivered,Credit Card
+257,32,2024-10-18,Delivered,PayPal
+258,202,2024-01-30,Delivered,PayPal
+259,135,2025-07-21,Delivered,Credit Card
+260,224,2025-02-17,Delivered,Credit Card
+261,490,2025-06-20,Delivered,Credit Card
+262,9,2024-11-26,Delivered,Credit Card
+263,317,2025-10-30,Delivered,Cash on Delivery
+264,108,2024-11-23,Delivered,Credit Card
+265,311,2024-10-05,Delivered,Credit Card
+266,301,2025-12-03,Delivered,Cash on Delivery
+267,382,2025-03-18,Delivered,Credit Card
+268,89,2025-08-19,Delivered,PayPal
+269,40,2024-07-08,Delivered,Credit Card
+270,439,2024-01-28,Delivered,Credit Card
+271,455,2025-02-10,Delivered,Credit Card
+272,97,2025-12-01,Delivered,PayPal
+273,456,2025-04-22,Delivered,PayPal
+274,432,2025-03-13,Delivered,Bank Transfer
+275,205,2025-05-18,Returned,PayPal
+276,480,2025-06-10,Delivered,Credit Card
+277,396,2024-09-30,Cancelled,PayPal
+278,490,2025-11-05,Cancelled,PayPal
+279,241,2025-11-27,Delivered,PayPal
+280,318,2025-08-10,Delivered,PayPal
+281,63,2025-08-17,Delivered,PayPal
+282,410,2025-03-18,Delivered,Cash on Delivery
+283,461,2025-02-13,Returned,PayPal
+284,182,2025-07-09,Delivered,Credit Card
+285,453,2025-06-08,Delivered,Credit Card
+286,105,2025-09-02,Delivered,Credit Card
+287,347,2025-06-16,Delivered,Bank Transfer
+288,88,2024-10-29,Delivered,Bank Transfer
+289,465,2025-11-26,Delivered,Credit Card
+290,75,2025-11-10,Delivered,Credit Card
+291,146,2025-03-04,Delivered,Credit Card
+292,417,2025-08-16,Delivered,Bank Transfer
+293,94,2024-07-09,Delivered,Credit Card
+294,295,2024-08-27,Delivered,Credit Card
+295,415,2025-07-23,Delivered,Credit Card
+296,136,2025-10-22,Delivered,Credit Card
+297,350,2025-11-06,Delivered,Credit Card
+298,152,2025-03-20,Delivered,Credit Card
+299,391,2025-12-15,Delivered,PayPal
+300,74,2024-05-04,Cancelled,Credit Card
+301,113,2025-10-05,Delivered,PayPal
+302,378,2025-10-04,Delivered,Credit Card
+303,293,2025-04-15,Delivered,Credit Card
+304,178,2025-08-21,Delivered,Bank Transfer
+305,249,2024-12-13,Returned,Credit Card
+306,127,2025-04-27,Delivered,Credit Card
+307,150,2025-06-11,Delivered,Cash on Delivery
+308,410,2025-12-02,Delivered,Credit Card
+309,290,2025-07-06,Cancelled,Credit Card
+310,397,2025-09-26,Delivered,Credit Card
+311,103,2024-12-03,Delivered,Credit Card
+312,133,2025-11-20,Delivered,Credit Card
+313,364,2025-02-26,Delivered,Credit Card
+314,297,2024-06-19,Delivered,PayPal
+315,326,2024-10-23,Delivered,Credit Card
+316,304,2024-12-10,Delivered,Bank Transfer
+317,242,2024-05-15,Cancelled,Credit Card
+318,64,2025-12-07,Delivered,Bank Transfer
+319,272,2025-03-19,Delivered,Credit Card
+320,478,2025-11-18,Delivered,PayPal
+321,436,2024-03-31,Delivered,Credit Card
+322,206,2025-08-24,Delivered,Credit Card
+323,223,2024-10-01,Delivered,Credit Card
+324,437,2025-09-12,Delivered,Bank Transfer
+325,76,2025-03-18,Delivered,Credit Card
+326,210,2025-01-18,Delivered,Credit Card
+327,434,2024-12-19,Returned,PayPal
+328,254,2025-09-07,Delivered,PayPal
+329,242,2024-04-25,Delivered,Bank Transfer
+330,480,2025-06-14,Delivered,Credit Card
+331,423,2025-11-24,Delivered,Bank Transfer
+332,285,2024-05-20,Delivered,PayPal
+333,221,2025-11-24,Delivered,Cash on Delivery
+334,175,2025-09-16,Returned,Cash on Delivery
+335,435,2025-04-15,Delivered,Credit Card
+336,424,2024-02-07,Delivered,Credit Card
+337,187,2024-05-11,Delivered,PayPal
+338,99,2024-12-28,Delivered,Bank Transfer
+339,221,2025-08-28,Delivered,Bank Transfer
+340,379,2025-05-23,Delivered,Credit Card
+341,231,2025-11-14,Delivered,Credit Card
+342,413,2024-09-02,Delivered,Credit Card
+343,175,2025-03-29,Cancelled,Credit Card
+344,346,2025-12-17,Delivered,Credit Card
+345,23,2024-05-21,Delivered,Credit Card
+346,189,2025-05-17,Delivered,Credit Card
+347,99,2025-02-02,Delivered,Credit Card
+348,345,2025-05-03,Delivered,Credit Card
+349,61,2025-04-26,Delivered,Cash on Delivery
+350,343,2025-03-19,Delivered,Credit Card
+351,474,2025-07-11,Delivered,Cash on Delivery
+352,394,2025-05-15,Delivered,Cash on Delivery
+353,206,2025-11-28,Delivered,PayPal
+354,38,2024-04-27,Delivered,Credit Card
+355,182,2024-08-10,Delivered,PayPal
+356,252,2024-12-20,Delivered,PayPal
+357,260,2024-02-17,Delivered,Credit Card
+358,406,2024-06-23,Delivered,Cash on Delivery
+359,256,2025-07-01,Delivered,Credit Card
+360,28,2024-06-23,Delivered,Credit Card
+361,39,2024-07-13,Delivered,Credit Card
+362,112,2024-10-25,Delivered,Credit Card
+363,317,2025-09-18,Delivered,Credit Card
+364,383,2025-04-30,Delivered,Credit Card
+365,44,2025-06-19,Delivered,PayPal
+366,139,2025-06-24,Delivered,Credit Card
+367,43,2025-04-10,Returned,Credit Card
+368,290,2025-02-21,Delivered,Bank Transfer
+369,159,2024-04-24,Delivered,Credit Card
+370,122,2025-07-10,Delivered,Credit Card
+371,46,2024-06-05,Returned,Credit Card
+372,212,2024-11-21,Delivered,Bank Transfer
+373,248,2025-05-30,Delivered,Credit Card
+374,353,2024-08-19,Returned,Bank Transfer
+375,490,2025-12-08,Delivered,Credit Card
+376,371,2025-08-08,Delivered,Credit Card
+377,26,2025-11-12,Delivered,Credit Card
+378,385,2025-09-24,Delivered,Credit Card
+379,284,2025-11-08,Delivered,Credit Card
+380,82,2024-08-07,Delivered,Credit Card
+381,47,2024-09-20,Delivered,PayPal
+382,263,2025-12-31,Delivered,Bank Transfer
+383,390,2024-05-09,Delivered,Credit Card
+384,10,2024-06-20,Delivered,Credit Card
+385,96,2025-02-19,Delivered,Credit Card
+386,427,2025-02-22,Delivered,Credit Card
+387,36,2025-10-17,Delivered,PayPal
+388,180,2025-06-19,Delivered,PayPal
+389,20,2025-04-22,Delivered,Credit Card
+390,403,2025-12-31,Delivered,PayPal
+391,244,2024-05-02,Delivered,PayPal
+392,135,2024-05-02,Delivered,PayPal
+393,207,2025-10-17,Delivered,PayPal
+394,186,2025-11-12,Delivered,Credit Card
+395,65,2024-11-13,Delivered,Credit Card
+396,131,2025-12-03,Delivered,PayPal
+397,12,2024-07-09,Delivered,Credit Card
+398,485,2025-05-19,Cancelled,PayPal
+399,455,2025-12-05,Delivered,Credit Card
+400,48,2025-05-28,Delivered,PayPal
+401,64,2025-03-31,Delivered,Credit Card
+402,133,2025-10-23,Delivered,Cash on Delivery
+403,348,2025-09-28,Delivered,Credit Card
+404,268,2024-09-27,Delivered,Cash on Delivery
+405,160,2025-10-20,Delivered,PayPal
+406,265,2024-06-22,Delivered,Credit Card
+407,70,2025-09-28,Delivered,PayPal
+408,150,2025-05-18,Delivered,Credit Card
+409,270,2025-10-16,Cancelled,PayPal
+410,420,2025-08-07,Delivered,Cash on Delivery
+411,25,2025-06-04,Delivered,Credit Card
+412,490,2025-11-15,Delivered,Credit Card
+413,164,2025-06-06,Delivered,Credit Card
+414,20,2025-04-13,Delivered,Bank Transfer
+415,339,2025-07-27,Returned,Credit Card
+416,28,2025-06-24,Delivered,Credit Card
+417,198,2025-01-18,Delivered,Credit Card
+418,459,2025-01-07,Delivered,Credit Card
+419,410,2025-11-04,Delivered,Credit Card
+420,89,2025-02-07,Delivered,Credit Card
+421,466,2024-09-18,Delivered,Bank Transfer
+422,450,2025-08-13,Delivered,Bank Transfer
+423,39,2025-07-07,Delivered,Cash on Delivery
+424,191,2024-08-04,Delivered,Bank Transfer
+425,13,2025-07-14,Delivered,Credit Card
+426,158,2024-09-21,Delivered,Credit Card
+427,58,2025-04-29,Delivered,PayPal
+428,192,2025-06-10,Delivered,Bank Transfer
+429,54,2024-07-24,Delivered,Credit Card
+430,166,2024-11-13,Delivered,Bank Transfer
+431,321,2025-03-11,Delivered,Bank Transfer
+432,490,2025-06-02,Delivered,PayPal
+433,209,2025-10-08,Delivered,PayPal
+434,165,2025-07-18,Cancelled,PayPal
+435,328,2025-12-17,Delivered,Credit Card
+436,327,2025-03-05,Delivered,Credit Card
+437,125,2025-08-23,Cancelled,Credit Card
+438,287,2025-09-13,Delivered,Credit Card
+439,223,2025-11-23,Delivered,PayPal
+440,56,2025-02-25,Returned,PayPal
+441,78,2025-12-17,Delivered,Credit Card
+442,330,2025-04-02,Delivered,Credit Card
+443,57,2025-04-01,Delivered,Credit Card
+444,19,2025-12-05,Delivered,PayPal
+445,381,2025-06-08,Delivered,Credit Card
+446,301,2025-10-13,Delivered,PayPal
+447,230,2025-02-24,Delivered,Credit Card
+448,467,2025-06-11,Delivered,Credit Card
+449,432,2025-08-17,Delivered,Cash on Delivery
+450,329,2025-06-07,Delivered,PayPal
+451,476,2025-07-13,Delivered,Credit Card
+452,98,2024-02-26,Delivered,Credit Card
+453,74,2024-02-03,Delivered,Credit Card
+454,293,2025-08-08,Delivered,PayPal
+455,116,2025-11-12,Delivered,Credit Card
+456,62,2025-09-22,Delivered,Credit Card
+457,426,2024-12-24,Delivered,Credit Card
+458,489,2025-10-08,Cancelled,Credit Card
+459,276,2025-11-10,Delivered,Credit Card
+460,356,2025-07-07,Returned,PayPal
+461,222,2024-01-17,Delivered,Credit Card
+462,39,2024-02-25,Delivered,Credit Card
+463,388,2025-07-31,Delivered,Bank Transfer
+464,108,2025-08-05,Delivered,Credit Card
+465,349,2024-10-09,Delivered,Credit Card
+466,132,2025-10-09,Delivered,Credit Card
+467,190,2025-10-25,Delivered,Credit Card
+468,19,2025-06-15,Delivered,Credit Card
+469,343,2025-03-09,Delivered,Bank Transfer
+470,89,2024-11-20,Delivered,Credit Card
+471,53,2025-11-03,Delivered,PayPal
+472,152,2025-12-21,Delivered,Credit Card
+473,361,2024-07-04,Delivered,Credit Card
+474,157,2025-07-29,Delivered,Bank Transfer
+475,147,2025-01-25,Delivered,Credit Card
+476,235,2025-02-28,Delivered,Bank Transfer
+477,307,2024-10-03,Delivered,Bank Transfer
+478,194,2025-10-24,Cancelled,Credit Card
+479,134,2024-11-05,Delivered,PayPal
+480,215,2025-06-19,Delivered,Credit Card
+481,65,2025-01-16,Delivered,Credit Card
+482,31,2025-08-01,Delivered,Credit Card
+483,157,2025-04-28,Delivered,Credit Card
+484,76,2024-12-19,Delivered,Bank Transfer
+485,110,2025-08-27,Cancelled,Credit Card
+486,46,2024-04-11,Returned,PayPal
+487,240,2024-06-26,Delivered,Bank Transfer
+488,265,2025-06-20,Delivered,Bank Transfer
+489,159,2025-05-21,Delivered,Bank Transfer
+490,177,2024-04-07,Delivered,Credit Card
+491,475,2024-05-19,Delivered,Credit Card
+492,389,2025-05-14,Delivered,Bank Transfer
+493,260,2025-07-10,Delivered,Bank Transfer
+494,137,2025-06-24,Returned,PayPal
+495,385,2025-07-28,Delivered,Credit Card
+496,380,2025-02-04,Delivered,Credit Card
+497,199,2025-10-24,Delivered,Cash on Delivery
+498,72,2024-08-14,Delivered,Credit Card
+499,120,2025-11-13,Delivered,PayPal
+500,157,2024-10-02,Delivered,Credit Card
+501,120,2025-03-26,Delivered,Cash on Delivery
+502,230,2025-10-28,Delivered,Credit Card
+503,36,2025-12-16,Delivered,Cash on Delivery
+504,14,2025-05-22,Delivered,Credit Card
+505,494,2025-03-25,Delivered,Bank Transfer
+506,278,2025-04-18,Delivered,Credit Card
+507,403,2025-11-21,Delivered,PayPal
+508,380,2024-08-17,Delivered,Credit Card
+509,28,2025-07-05,Delivered,Credit Card
+510,358,2025-07-16,Delivered,Bank Transfer
+511,8,2024-03-10,Returned,Credit Card
+512,146,2024-03-05,Delivered,Credit Card
+513,472,2025-08-23,Delivered,Bank Transfer
+514,310,2025-11-29,Delivered,Credit Card
+515,146,2024-04-01,Delivered,Credit Card
+516,472,2025-01-09,Delivered,Credit Card
+517,17,2025-09-04,Delivered,PayPal
+518,459,2025-12-18,Delivered,Credit Card
+519,338,2025-09-17,Delivered,Credit Card
+520,468,2025-05-07,Cancelled,Cash on Delivery
+521,268,2024-02-01,Cancelled,Credit Card
+522,219,2025-08-19,Delivered,Credit Card
+523,198,2025-12-26,Delivered,PayPal
+524,425,2025-06-11,Delivered,Credit Card
+525,36,2025-11-23,Delivered,PayPal
+526,324,2024-03-18,Delivered,Credit Card
+527,138,2024-11-23,Delivered,PayPal
+528,485,2025-12-07,Delivered,PayPal
+529,325,2025-05-15,Delivered,PayPal
+530,444,2025-01-24,Delivered,Credit Card
+531,297,2025-01-11,Delivered,Credit Card
+532,492,2024-09-21,Delivered,Cash on Delivery
+533,242,2024-05-25,Delivered,PayPal
+534,274,2024-11-08,Delivered,Bank Transfer
+535,425,2024-04-17,Delivered,Credit Card
+536,107,2024-04-10,Delivered,PayPal
+537,46,2024-03-29,Delivered,Credit Card
+538,379,2025-04-29,Delivered,PayPal
+539,7,2025-01-16,Delivered,Credit Card
+540,46,2025-10-25,Delivered,Credit Card
+541,131,2025-02-12,Delivered,Credit Card
+542,160,2024-10-10,Delivered,PayPal
+543,277,2024-07-22,Delivered,Credit Card
+544,182,2024-12-17,Delivered,Credit Card
+545,66,2025-10-16,Delivered,Credit Card
+546,333,2025-06-24,Delivered,PayPal
+547,34,2025-04-19,Delivered,PayPal
+548,190,2024-12-02,Delivered,Credit Card
+549,319,2025-10-26,Delivered,Credit Card
+550,259,2025-12-25,Delivered,Credit Card
+551,153,2025-03-19,Delivered,Credit Card
+552,446,2024-12-26,Delivered,Bank Transfer
+553,281,2024-06-12,Delivered,Credit Card
+554,489,2024-07-21,Delivered,Credit Card
+555,37,2025-05-31,Delivered,Bank Transfer
+556,274,2025-01-02,Delivered,Credit Card
+557,38,2025-01-08,Delivered,Credit Card
+558,223,2025-02-20,Delivered,Credit Card
+559,368,2024-12-10,Delivered,Credit Card
+560,443,2025-09-01,Delivered,Cash on Delivery
+561,245,2025-10-03,Delivered,Credit Card
+562,286,2025-11-10,Cancelled,Credit Card
+563,61,2025-01-20,Delivered,Cash on Delivery
+564,117,2025-05-07,Cancelled,Credit Card
+565,398,2025-02-15,Delivered,PayPal
+566,59,2025-12-02,Delivered,Credit Card
+567,235,2025-03-19,Delivered,Credit Card
+568,410,2025-02-18,Delivered,Credit Card
+569,232,2025-07-28,Delivered,PayPal
+570,350,2025-09-28,Delivered,Credit Card
+571,60,2025-02-10,Delivered,Bank Transfer
+572,295,2024-02-11,Delivered,Credit Card
+573,64,2025-12-13,Cancelled,Bank Transfer
+574,313,2025-02-25,Delivered,Credit Card
+575,116,2025-05-07,Delivered,Credit Card
+576,341,2024-05-05,Delivered,Cash on Delivery
+577,373,2025-10-19,Delivered,PayPal
+578,20,2025-02-02,Delivered,Bank Transfer
+579,323,2025-07-18,Delivered,Credit Card
+580,208,2025-06-25,Delivered,Credit Card
+581,296,2025-11-16,Delivered,Credit Card
+582,128,2025-12-06,Delivered,Credit Card
+583,255,2025-06-30,Delivered,Credit Card
+584,321,2025-06-09,Delivered,PayPal
+585,372,2024-12-18,Delivered,PayPal
+586,41,2025-07-03,Delivered,Credit Card
+587,65,2024-11-11,Delivered,Cash on Delivery
+588,235,2024-11-10,Returned,Credit Card
+589,318,2024-05-20,Delivered,PayPal
+590,48,2025-12-09,Delivered,Bank Transfer
+591,434,2025-12-16,Delivered,Cash on Delivery
+592,395,2024-11-10,Delivered,PayPal
+593,450,2025-10-07,Delivered,Bank Transfer
+594,101,2024-09-13,Delivered,Credit Card
+595,247,2025-06-27,Cancelled,Credit Card
+596,199,2025-12-06,Returned,Credit Card
+597,196,2025-08-06,Cancelled,Bank Transfer
+598,301,2024-06-08,Delivered,Credit Card
+599,444,2025-10-05,Delivered,Credit Card
+600,40,2025-04-28,Delivered,Credit Card
+601,323,2025-07-21,Delivered,Cash on Delivery
+602,475,2024-10-12,Returned,Credit Card
+603,400,2024-08-08,Delivered,PayPal
+604,405,2025-05-24,Delivered,Credit Card
+605,47,2024-09-12,Delivered,Bank Transfer
+606,324,2025-04-23,Delivered,Cash on Delivery
+607,465,2025-03-08,Delivered,PayPal
+608,255,2025-02-17,Cancelled,Bank Transfer
+609,450,2025-10-31,Cancelled,Credit Card
+610,123,2025-02-07,Delivered,Cash on Delivery
+611,329,2025-01-26,Delivered,Credit Card
+612,83,2025-04-01,Cancelled,Credit Card
+613,424,2025-10-03,Delivered,Bank Transfer
+614,190,2025-08-21,Delivered,Credit Card
+615,289,2025-12-29,Delivered,PayPal
+616,11,2025-08-02,Delivered,Credit Card
+617,308,2025-04-05,Delivered,Credit Card
+618,264,2025-10-15,Delivered,Credit Card
+619,186,2025-10-23,Delivered,Bank Transfer
+620,406,2024-10-13,Delivered,Cash on Delivery
+621,251,2024-06-09,Delivered,Credit Card
+622,307,2024-09-26,Delivered,Bank Transfer
+623,223,2025-03-12,Delivered,Credit Card
+624,298,2025-09-15,Delivered,PayPal
+625,89,2025-08-09,Delivered,Credit Card
+626,386,2025-09-09,Delivered,Cash on Delivery
+627,423,2024-11-19,Delivered,Credit Card
+628,204,2025-03-29,Returned,Bank Transfer
+629,381,2025-04-23,Returned,Bank Transfer
+630,159,2025-06-18,Delivered,Credit Card
+631,485,2025-08-16,Delivered,PayPal
+632,419,2024-04-03,Delivered,Credit Card
+633,21,2025-05-02,Delivered,Credit Card
+634,414,2025-12-22,Delivered,Cash on Delivery
+635,247,2025-10-20,Delivered,Credit Card
+636,236,2025-02-03,Delivered,Credit Card
+637,14,2025-05-14,Returned,Credit Card
+638,301,2024-12-12,Delivered,Cash on Delivery
+639,211,2025-07-07,Delivered,PayPal
+640,334,2025-02-12,Delivered,Credit Card
+641,222,2025-01-14,Delivered,Credit Card
+642,352,2025-06-21,Delivered,PayPal
+643,87,2024-11-05,Returned,Credit Card
+644,21,2025-07-03,Delivered,Credit Card
+645,85,2025-05-01,Delivered,Credit Card
+646,150,2025-10-17,Delivered,Credit Card
+647,291,2025-04-26,Delivered,Credit Card
+648,247,2025-09-20,Delivered,Credit Card
+649,261,2025-06-14,Delivered,Bank Transfer
+650,279,2025-12-20,Delivered,Credit Card
+651,288,2024-06-26,Delivered,Bank Transfer
+652,469,2025-09-14,Delivered,Bank Transfer
+653,366,2024-01-10,Delivered,Credit Card
+654,67,2025-03-02,Delivered,Cash on Delivery
+655,420,2025-09-22,Delivered,Cash on Delivery
+656,131,2024-06-26,Delivered,PayPal
+657,274,2025-10-19,Delivered,Credit Card
+658,461,2024-08-16,Delivered,Bank Transfer
+659,338,2025-07-31,Delivered,Credit Card
+660,325,2025-04-03,Delivered,Bank Transfer
+661,41,2025-03-18,Delivered,Bank Transfer
+662,357,2025-10-19,Delivered,PayPal
+663,469,2025-10-08,Delivered,Credit Card
+664,134,2025-12-22,Delivered,Credit Card
+665,26,2025-07-29,Delivered,Credit Card
+666,313,2024-01-06,Delivered,Bank Transfer
+667,297,2024-08-24,Delivered,Credit Card
+668,386,2024-06-02,Delivered,Credit Card
+669,279,2025-10-22,Delivered,PayPal
+670,118,2025-09-07,Delivered,Credit Card
+671,1,2025-02-10,Delivered,Credit Card
+672,119,2024-06-18,Delivered,PayPal
+673,350,2025-08-05,Delivered,Credit Card
+674,7,2025-12-22,Delivered,Credit Card
+675,449,2025-08-28,Delivered,PayPal
+676,319,2025-09-12,Delivered,Cash on Delivery
+677,30,2024-08-08,Delivered,Credit Card
+678,402,2025-09-09,Delivered,Credit Card
+679,155,2025-12-31,Cancelled,Credit Card
+680,462,2025-12-04,Delivered,PayPal
+681,394,2024-12-16,Delivered,PayPal
+682,28,2024-10-10,Delivered,Bank Transfer
+683,192,2025-07-10,Cancelled,Credit Card
+684,62,2025-07-10,Delivered,Cash on Delivery
+685,78,2025-05-27,Delivered,Bank Transfer
+686,202,2025-07-11,Delivered,Credit Card
+687,56,2025-11-08,Returned,PayPal
+688,117,2025-11-27,Delivered,PayPal
+689,264,2025-07-11,Delivered,PayPal
+690,272,2025-01-09,Delivered,PayPal
+691,15,2025-04-09,Delivered,Credit Card
+692,494,2024-10-29,Delivered,Credit Card
+693,291,2024-09-29,Delivered,Credit Card
+694,424,2024-03-22,Delivered,Cash on Delivery
+695,198,2025-12-19,Delivered,Credit Card
+696,423,2024-11-04,Delivered,Credit Card
+697,5,2024-03-12,Delivered,Credit Card
+698,76,2025-10-15,Delivered,PayPal
+699,343,2025-04-08,Delivered,Credit Card
+700,90,2025-10-18,Delivered,PayPal
+701,164,2025-04-25,Delivered,Credit Card
+702,221,2025-05-03,Delivered,Credit Card
+703,463,2025-07-02,Delivered,Credit Card
+704,243,2025-03-08,Delivered,Credit Card
+705,79,2025-08-22,Delivered,PayPal
+706,460,2024-09-17,Delivered,Credit Card
+707,57,2025-02-01,Delivered,Credit Card
+708,110,2024-10-20,Delivered,Credit Card
+709,462,2025-06-30,Delivered,Credit Card
+710,458,2025-02-07,Delivered,Cash on Delivery
+711,150,2025-06-20,Delivered,Credit Card
+712,110,2024-07-03,Delivered,Cash on Delivery
+713,485,2024-01-26,Delivered,Credit Card
+714,446,2025-12-07,Cancelled,Credit Card
+715,217,2025-08-23,Delivered,Cash on Delivery
+716,318,2024-10-05,Delivered,Credit Card
+717,7,2025-01-08,Delivered,Cash on Delivery
+718,107,2024-08-18,Delivered,PayPal
+719,9,2024-08-18,Delivered,Credit Card
+720,254,2025-03-12,Delivered,Credit Card
+721,166,2025-11-26,Delivered,Credit Card
+722,166,2024-12-07,Delivered,Credit Card
+723,102,2024-08-12,Delivered,Credit Card
+724,184,2024-05-19,Delivered,Credit Card
+725,224,2025-06-16,Delivered,Bank Transfer
+726,48,2025-09-11,Returned,Cash on Delivery
+727,84,2025-03-07,Returned,Credit Card
+728,264,2025-09-16,Delivered,Credit Card
+729,169,2025-07-26,Returned,PayPal
+730,345,2025-12-30,Delivered,Credit Card
+731,497,2025-08-18,Delivered,Credit Card
+732,250,2024-01-15,Delivered,Credit Card
+733,334,2025-10-01,Delivered,Credit Card
+734,240,2024-03-28,Delivered,Credit Card
+735,64,2025-10-20,Delivered,Bank Transfer
+736,87,2025-08-09,Delivered,PayPal
+737,13,2025-04-01,Delivered,Credit Card
+738,307,2025-04-18,Delivered,Bank Transfer
+739,155,2025-09-11,Returned,Credit Card
+740,400,2025-05-26,Delivered,PayPal
+741,173,2025-08-30,Delivered,Credit Card
+742,447,2025-01-03,Delivered,Credit Card
+743,351,2025-09-13,Delivered,Bank Transfer
+744,384,2025-10-10,Cancelled,Credit Card
+745,180,2025-05-22,Delivered,Credit Card
+746,99,2024-11-11,Delivered,PayPal
+747,473,2024-12-08,Delivered,Cash on Delivery
+748,310,2025-11-28,Delivered,Cash on Delivery
+749,139,2025-10-09,Delivered,PayPal
+750,323,2025-12-02,Delivered,Credit Card
+751,102,2024-12-13,Delivered,Credit Card
+752,476,2025-07-09,Delivered,PayPal
+753,404,2025-06-01,Delivered,Bank Transfer
+754,220,2025-04-25,Cancelled,Credit Card
+755,278,2025-12-03,Delivered,PayPal
+756,446,2024-09-05,Delivered,Credit Card
+757,230,2024-03-10,Cancelled,PayPal
+758,231,2025-03-26,Delivered,Cash on Delivery
+759,14,2024-07-01,Cancelled,Credit Card
+760,110,2024-01-30,Delivered,PayPal
+761,12,2024-04-06,Delivered,Credit Card
+762,26,2025-10-30,Delivered,Credit Card
+763,246,2025-11-20,Delivered,Credit Card
+764,3,2024-12-12,Delivered,Credit Card
+765,71,2025-06-28,Delivered,Cash on Delivery
+766,132,2024-06-19,Delivered,PayPal
+767,75,2024-10-27,Delivered,Credit Card
+768,281,2024-02-24,Delivered,PayPal
+769,257,2025-06-14,Returned,Credit Card
+770,280,2025-09-15,Delivered,PayPal
+771,210,2025-11-28,Delivered,PayPal
+772,319,2025-07-09,Delivered,Credit Card
+773,89,2025-03-15,Delivered,Credit Card
+774,431,2025-11-13,Delivered,Credit Card
+775,131,2024-02-06,Cancelled,Credit Card
+776,496,2025-08-12,Cancelled,Credit Card
+777,493,2025-12-31,Cancelled,Credit Card
+778,4,2024-04-27,Delivered,Credit Card
+779,79,2025-11-05,Delivered,Cash on Delivery
+780,264,2025-07-28,Delivered,Bank Transfer
+781,129,2024-07-19,Cancelled,Cash on Delivery
+782,455,2025-11-09,Delivered,PayPal
+783,433,2025-08-26,Delivered,PayPal
+784,243,2024-09-03,Delivered,PayPal
+785,405,2025-04-03,Delivered,PayPal
+786,377,2024-06-26,Delivered,PayPal
+787,313,2025-11-11,Delivered,Bank Transfer
+788,308,2025-09-27,Delivered,Credit Card
+789,473,2025-03-08,Delivered,Credit Card
+790,110,2025-11-28,Delivered,Credit Card
+791,155,2025-10-17,Delivered,Credit Card
+792,16,2025-05-16,Delivered,Credit Card
+793,458,2025-06-13,Delivered,Credit Card
+794,485,2025-11-19,Returned,Credit Card
+795,355,2025-07-10,Delivered,Bank Transfer
+796,458,2025-05-23,Delivered,Cash on Delivery
+797,388,2025-12-17,Delivered,Credit Card
+798,492,2025-04-10,Delivered,Credit Card
+799,128,2025-06-12,Delivered,Bank Transfer
+800,407,2024-05-25,Delivered,PayPal
+801,47,2025-08-01,Delivered,Bank Transfer
+802,355,2025-08-14,Cancelled,Credit Card
+803,167,2025-09-24,Cancelled,Credit Card
+804,210,2024-12-10,Delivered,Credit Card
+805,320,2024-09-14,Delivered,Credit Card
+806,446,2025-09-01,Delivered,Credit Card
+807,227,2024-07-26,Delivered,Credit Card
+808,159,2025-04-23,Delivered,PayPal
+809,35,2025-02-23,Delivered,Credit Card
+810,352,2024-12-19,Delivered,Credit Card
+811,295,2025-03-23,Delivered,Credit Card
+812,232,2025-04-20,Delivered,Bank Transfer
+813,178,2024-12-26,Delivered,Bank Transfer
+814,313,2024-06-23,Delivered,PayPal
+815,438,2025-11-04,Delivered,Cash on Delivery
+816,344,2025-03-22,Delivered,PayPal
+817,3,2025-11-16,Delivered,PayPal
+818,12,2025-01-15,Delivered,Credit Card
+819,340,2025-06-17,Delivered,Bank Transfer
+820,47,2024-09-28,Delivered,PayPal
+821,437,2025-11-26,Delivered,Credit Card
+822,230,2025-07-09,Delivered,PayPal
+823,111,2025-01-16,Returned,PayPal
+824,157,2025-11-14,Cancelled,Cash on Delivery
+825,89,2025-11-09,Delivered,PayPal
+826,476,2025-06-10,Delivered,Bank Transfer
+827,328,2024-03-09,Delivered,Credit Card
+828,287,2025-03-05,Delivered,Credit Card
+829,96,2025-09-10,Delivered,PayPal
+830,346,2025-08-10,Delivered,Bank Transfer
+831,232,2025-03-04,Delivered,Cash on Delivery
+832,376,2025-09-22,Delivered,PayPal
+833,480,2025-09-03,Delivered,Credit Card
+834,448,2025-03-26,Delivered,Bank Transfer
+835,437,2025-12-17,Delivered,Credit Card
+836,212,2025-05-07,Delivered,Credit Card
+837,201,2025-08-12,Delivered,Credit Card
+838,339,2025-06-29,Delivered,Bank Transfer
+839,1,2025-11-16,Delivered,PayPal
+840,266,2024-12-23,Delivered,Credit Card
+841,492,2025-07-26,Delivered,PayPal
+842,133,2025-08-14,Delivered,PayPal
+843,184,2025-02-20,Delivered,Bank Transfer
+844,273,2025-08-16,Delivered,Credit Card
+845,470,2025-10-30,Returned,Credit Card
+846,40,2024-09-04,Delivered,Credit Card
+847,158,2025-04-29,Delivered,Bank Transfer
+848,138,2025-08-09,Delivered,Credit Card
+849,136,2025-04-17,Delivered,Credit Card
+850,497,2025-07-11,Delivered,Cash on Delivery
+851,433,2025-10-21,Delivered,Cash on Delivery
+852,313,2025-11-26,Delivered,Credit Card
+853,241,2025-05-14,Delivered,Credit Card
+854,231,2025-01-26,Delivered,Credit Card
+855,77,2025-08-30,Delivered,Credit Card
+856,13,2025-12-10,Delivered,PayPal
+857,46,2025-10-19,Delivered,Credit Card
+858,77,2025-03-31,Delivered,Credit Card
+859,461,2024-01-07,Delivered,Credit Card
+860,232,2025-02-19,Delivered,PayPal
+861,274,2025-09-14,Delivered,Bank Transfer
+862,223,2025-01-01,Delivered,Credit Card
+863,41,2025-06-18,Delivered,Cash on Delivery
+864,352,2025-02-27,Delivered,Credit Card
+865,159,2024-12-06,Returned,PayPal
+866,167,2025-10-22,Delivered,Bank Transfer
+867,225,2025-09-24,Delivered,Cash on Delivery
+868,282,2024-12-24,Delivered,Credit Card
+869,468,2025-02-10,Delivered,Bank Transfer
+870,261,2024-12-22,Delivered,Cash on Delivery
+871,174,2025-09-19,Returned,Bank Transfer
+872,386,2024-02-19,Delivered,Credit Card
+873,241,2025-11-09,Delivered,PayPal
+874,479,2025-10-06,Delivered,Credit Card
+875,129,2024-04-18,Delivered,Credit Card
+876,372,2024-01-12,Delivered,Credit Card
+877,481,2025-12-25,Delivered,Credit Card
+878,420,2025-10-10,Delivered,PayPal
+879,103,2025-09-04,Delivered,PayPal
+880,450,2025-07-20,Delivered,Credit Card
+881,209,2025-09-13,Delivered,Credit Card
+882,240,2025-07-25,Delivered,PayPal
+883,128,2025-03-25,Delivered,Bank Transfer
+884,4,2025-03-09,Delivered,Bank Transfer
+885,271,2024-07-04,Delivered,PayPal
+886,379,2025-06-30,Delivered,Credit Card
+887,33,2025-08-03,Cancelled,Cash on Delivery
+888,252,2025-12-09,Delivered,Cash on Delivery
+889,119,2024-10-11,Delivered,Credit Card
+890,311,2025-10-04,Delivered,Cash on Delivery
+891,301,2025-05-26,Delivered,Cash on Delivery
+892,110,2024-01-16,Delivered,Credit Card
+893,108,2025-04-24,Delivered,Credit Card
+894,263,2025-04-27,Delivered,PayPal
+895,41,2025-04-03,Delivered,Credit Card
+896,56,2024-08-08,Delivered,Credit Card
+897,466,2025-02-28,Delivered,Credit Card
+898,27,2025-03-21,Delivered,Credit Card
+899,294,2024-12-19,Cancelled,Cash on Delivery
+900,316,2025-03-06,Delivered,Credit Card
+901,404,2025-04-22,Delivered,Credit Card
+902,236,2024-09-12,Delivered,Cash on Delivery
+903,339,2025-05-06,Delivered,Credit Card
+904,328,2024-08-06,Delivered,PayPal
+905,81,2024-10-22,Delivered,Credit Card
+906,121,2024-05-22,Delivered,Credit Card
+907,253,2025-10-23,Delivered,Credit Card
+908,45,2025-01-05,Delivered,Credit Card
+909,490,2025-07-30,Delivered,PayPal
+910,381,2025-04-26,Delivered,Credit Card
+911,279,2024-02-02,Delivered,PayPal
+912,431,2024-12-05,Delivered,PayPal
+913,343,2024-03-25,Delivered,Cash on Delivery
+914,149,2024-02-17,Delivered,PayPal
+915,40,2024-07-24,Delivered,Credit Card
+916,42,2024-06-26,Delivered,Bank Transfer
+917,185,2024-12-18,Delivered,Credit Card
+918,127,2025-10-10,Delivered,Credit Card
+919,5,2024-10-03,Delivered,Bank Transfer
+920,26,2025-11-24,Delivered,Credit Card
+921,337,2024-09-04,Delivered,Credit Card
+922,80,2025-01-19,Delivered,Credit Card
+923,275,2024-04-25,Delivered,Credit Card
+924,375,2025-06-30,Delivered,Credit Card
+925,418,2025-02-13,Delivered,Credit Card
+926,85,2025-03-06,Delivered,Credit Card
+927,487,2025-10-06,Delivered,PayPal
+928,305,2024-08-29,Delivered,Credit Card
+929,350,2025-11-17,Delivered,Credit Card
+930,488,2024-09-16,Delivered,Credit Card
+931,219,2025-12-23,Delivered,Bank Transfer
+932,316,2025-08-16,Delivered,Credit Card
+933,27,2024-07-06,Delivered,Credit Card
+934,314,2025-06-16,Delivered,Credit Card
+935,378,2024-06-05,Delivered,Credit Card
+936,390,2024-01-31,Delivered,Cash on Delivery
+937,126,2025-10-16,Delivered,Bank Transfer
+938,38,2024-04-21,Delivered,Bank Transfer
+939,190,2025-05-29,Delivered,Bank Transfer
+940,475,2024-12-02,Cancelled,PayPal
+941,169,2025-02-18,Returned,Credit Card
+942,371,2024-10-07,Delivered,Credit Card
+943,313,2025-09-14,Delivered,Bank Transfer
+944,152,2025-10-28,Delivered,Credit Card
+945,45,2024-02-27,Delivered,Credit Card
+946,20,2025-09-12,Delivered,Credit Card
+947,46,2025-12-12,Delivered,Credit Card
+948,199,2025-10-10,Delivered,Credit Card
+949,201,2025-11-04,Delivered,Cash on Delivery
+950,336,2024-06-01,Delivered,Credit Card
+951,236,2024-08-07,Delivered,Credit Card
+952,446,2025-04-02,Delivered,PayPal
+953,113,2025-01-08,Delivered,Credit Card
+954,168,2025-11-20,Cancelled,Credit Card
+955,91,2025-06-04,Delivered,Credit Card
+956,429,2024-05-05,Delivered,Bank Transfer
+957,97,2025-09-10,Delivered,Credit Card
+958,71,2025-09-24,Delivered,Cash on Delivery
+959,109,2025-09-21,Delivered,Bank Transfer
+960,29,2025-09-09,Delivered,Credit Card
+961,197,2025-02-16,Returned,Cash on Delivery
+962,431,2024-04-28,Delivered,Credit Card
+963,160,2024-11-08,Delivered,PayPal
+964,285,2025-04-15,Delivered,PayPal
+965,406,2025-12-31,Delivered,Credit Card
+966,118,2025-12-30,Delivered,PayPal
+967,116,2025-08-07,Delivered,Credit Card
+968,198,2025-03-06,Delivered,Credit Card
+969,2,2024-06-07,Delivered,Credit Card
+970,468,2025-04-17,Delivered,Credit Card
+971,333,2025-04-15,Delivered,Credit Card
+972,149,2024-12-06,Delivered,PayPal
+973,27,2025-06-07,Delivered,Credit Card
+974,218,2024-12-04,Delivered,Credit Card
+975,323,2025-01-27,Delivered,PayPal
+976,386,2024-11-14,Delivered,Cash on Delivery
+977,68,2025-11-08,Delivered,Credit Card
+978,187,2024-02-20,Delivered,Credit Card
+979,473,2024-09-04,Delivered,PayPal
+980,258,2025-06-19,Delivered,PayPal
+981,295,2024-08-22,Delivered,Credit Card
+982,357,2025-07-19,Delivered,Credit Card
+983,177,2025-07-24,Delivered,Credit Card
+984,346,2025-09-11,Delivered,Cash on Delivery
+985,312,2024-07-10,Delivered,Credit Card
+986,6,2025-09-25,Delivered,Credit Card
+987,93,2025-09-02,Delivered,Bank Transfer
+988,138,2025-09-23,Delivered,Cash on Delivery
+989,65,2024-01-06,Delivered,Bank Transfer
+990,34,2025-01-07,Delivered,Credit Card
+991,248,2025-04-10,Delivered,Credit Card
+992,223,2025-05-11,Delivered,Cash on Delivery
+993,294,2025-10-14,Delivered,PayPal
+994,423,2025-01-06,Delivered,Credit Card
+995,496,2025-12-12,Delivered,Credit Card
+996,462,2025-10-24,Delivered,PayPal
+997,307,2024-09-22,Delivered,Credit Card
+998,76,2024-10-17,Delivered,PayPal
+999,152,2025-10-01,Delivered,Credit Card
+1000,239,2025-12-22,Delivered,Credit Card
+1001,406,2024-02-06,Cancelled,PayPal
+1002,146,2025-04-24,Delivered,PayPal
+1003,313,2024-11-15,Delivered,PayPal
+1004,358,2025-04-19,Delivered,PayPal
+1005,123,2025-05-26,Delivered,PayPal
+1006,399,2024-12-29,Delivered,Credit Card
+1007,467,2024-07-24,Delivered,Credit Card
+1008,485,2025-08-07,Delivered,Bank Transfer
+1009,129,2025-09-24,Delivered,Cash on Delivery
+1010,246,2025-05-02,Delivered,PayPal
+1011,66,2025-12-03,Delivered,PayPal
+1012,221,2025-01-30,Delivered,Credit Card
+1013,307,2025-06-15,Cancelled,Credit Card
+1014,359,2024-08-23,Delivered,PayPal
+1015,324,2024-11-04,Delivered,Bank Transfer
+1016,339,2025-07-08,Delivered,Credit Card
+1017,192,2025-01-01,Delivered,PayPal
+1018,187,2025-09-02,Delivered,Credit Card
+1019,57,2025-02-07,Delivered,Cash on Delivery
+1020,144,2025-06-20,Delivered,PayPal
+1021,182,2025-10-03,Delivered,Cash on Delivery
+1022,22,2025-06-18,Delivered,PayPal
+1023,183,2025-09-24,Delivered,Credit Card
+1024,453,2024-10-15,Delivered,Credit Card
+1025,124,2025-10-10,Delivered,PayPal
+1026,496,2025-08-25,Delivered,Credit Card
+1027,219,2025-02-27,Delivered,Credit Card
+1028,421,2025-06-10,Delivered,Credit Card
+1029,149,2024-06-28,Delivered,Credit Card
+1030,166,2024-07-22,Delivered,Credit Card
+1031,328,2025-07-08,Cancelled,Bank Transfer
+1032,98,2025-01-22,Delivered,Bank Transfer
+1033,468,2025-01-10,Delivered,Credit Card
+1034,233,2025-02-26,Delivered,Credit Card
+1035,266,2024-10-10,Delivered,Credit Card
+1036,457,2025-06-13,Delivered,Cash on Delivery
+1037,466,2025-12-26,Delivered,PayPal
+1038,7,2025-01-20,Delivered,PayPal
+1039,165,2025-07-17,Delivered,Bank Transfer
+1040,225,2025-03-24,Delivered,Credit Card
+1041,347,2025-10-22,Delivered,Credit Card
+1042,159,2024-12-17,Delivered,PayPal
+1043,438,2025-09-02,Delivered,Credit Card
+1044,135,2025-03-07,Delivered,PayPal
+1045,114,2025-10-31,Delivered,Credit Card
+1046,177,2024-10-16,Delivered,Cash on Delivery
+1047,31,2025-05-28,Delivered,Bank Transfer
+1048,332,2024-09-29,Delivered,Credit Card
+1049,222,2024-05-29,Delivered,Credit Card
+1050,99,2025-07-01,Delivered,Credit Card
+1051,426,2024-05-02,Delivered,Credit Card
+1052,367,2025-05-04,Delivered,Bank Transfer
+1053,92,2024-12-15,Delivered,Credit Card
+1054,178,2025-08-14,Delivered,Credit Card
+1055,483,2025-07-05,Delivered,Credit Card
+1056,11,2025-03-30,Delivered,Credit Card
+1057,369,2024-04-08,Delivered,Credit Card
+1058,289,2025-08-18,Delivered,Credit Card
+1059,373,2025-03-16,Delivered,Bank Transfer
+1060,458,2025-05-13,Delivered,Credit Card
+1061,285,2025-12-07,Delivered,Credit Card
+1062,90,2025-12-03,Delivered,Credit Card
+1063,166,2025-03-26,Delivered,Credit Card
+1064,174,2025-09-18,Delivered,Bank Transfer
+1065,463,2025-12-28,Delivered,Credit Card
+1066,420,2025-03-28,Delivered,Cash on Delivery
+1067,410,2025-03-04,Delivered,Credit Card
+1068,275,2024-07-04,Delivered,Credit Card
+1069,71,2025-04-22,Delivered,Credit Card
+1070,230,2025-08-18,Delivered,Cash on Delivery
+1071,165,2024-12-07,Delivered,Credit Card
+1072,229,2025-02-14,Delivered,Credit Card
+1073,63,2025-10-21,Delivered,Credit Card
+1074,341,2025-04-16,Delivered,Credit Card
+1075,343,2024-08-23,Returned,PayPal
+1076,265,2025-06-17,Returned,PayPal
+1077,428,2024-03-26,Delivered,Credit Card
+1078,343,2024-08-03,Delivered,Credit Card
+1079,426,2024-10-17,Delivered,Credit Card
+1080,304,2025-09-02,Delivered,Credit Card
+1081,98,2024-01-26,Delivered,Credit Card
+1082,397,2025-07-10,Delivered,Credit Card
+1083,4,2025-07-31,Delivered,Bank Transfer
+1084,291,2024-05-21,Delivered,PayPal
+1085,76,2025-03-17,Delivered,Bank Transfer
+1086,11,2024-07-29,Delivered,PayPal
+1087,283,2024-02-21,Cancelled,Credit Card
+1088,300,2024-11-18,Delivered,Credit Card
+1089,485,2025-02-12,Delivered,PayPal
+1090,106,2025-01-26,Delivered,Credit Card
+1091,139,2025-07-20,Cancelled,Credit Card
+1092,407,2025-02-13,Delivered,Credit Card
+1093,139,2025-09-24,Delivered,PayPal
+1094,246,2025-03-24,Delivered,Bank Transfer
+1095,72,2025-01-29,Delivered,PayPal
+1096,72,2025-06-22,Cancelled,PayPal
+1097,296,2025-06-15,Delivered,PayPal
+1098,241,2025-06-08,Delivered,Cash on Delivery
+1099,94,2025-10-04,Delivered,Credit Card
+1100,286,2025-07-09,Delivered,PayPal
+1101,321,2025-04-06,Delivered,Credit Card
+1102,9,2025-12-14,Cancelled,PayPal
+1103,269,2025-12-10,Delivered,Credit Card
+1104,79,2025-12-27,Delivered,Credit Card
+1105,375,2025-07-02,Delivered,Credit Card
+1106,303,2025-11-30,Delivered,Credit Card
+1107,361,2024-07-31,Delivered,Bank Transfer
+1108,391,2025-11-17,Delivered,Credit Card
+1109,381,2025-10-01,Delivered,Cash on Delivery
+1110,276,2025-11-29,Delivered,Credit Card
+1111,205,2025-04-12,Delivered,Cash on Delivery
+1112,198,2025-12-01,Cancelled,Bank Transfer
+1113,488,2025-09-16,Delivered,Credit Card
+1114,156,2025-05-20,Delivered,Credit Card
+1115,267,2024-04-02,Delivered,Credit Card
+1116,404,2024-08-11,Delivered,Credit Card
+1117,119,2025-06-18,Delivered,Credit Card
+1118,172,2025-12-27,Returned,Credit Card
+1119,187,2025-06-11,Returned,PayPal
+1120,288,2025-03-11,Cancelled,Bank Transfer
+1121,458,2025-12-24,Delivered,Credit Card
+1122,198,2024-04-06,Returned,Credit Card
+1123,13,2025-12-11,Delivered,Bank Transfer
+1124,197,2025-06-05,Delivered,Bank Transfer
+1125,8,2025-12-21,Delivered,Credit Card
+1126,24,2025-07-16,Delivered,Credit Card
+1127,138,2024-05-16,Delivered,Credit Card
+1128,385,2025-05-02,Cancelled,Credit Card
+1129,356,2024-07-15,Delivered,PayPal
+1130,94,2025-12-20,Delivered,PayPal
+1131,470,2025-04-06,Delivered,Cash on Delivery
+1132,87,2025-09-29,Returned,Credit Card
+1133,115,2025-12-13,Delivered,PayPal
+1134,232,2025-07-13,Delivered,Bank Transfer
+1135,199,2025-10-28,Delivered,Credit Card
+1136,59,2025-09-21,Delivered,Credit Card
+1137,115,2025-09-22,Delivered,Credit Card
+1138,274,2024-11-08,Delivered,PayPal
+1139,243,2025-07-10,Delivered,Cash on Delivery
+1140,168,2025-07-01,Delivered,Credit Card
+1141,406,2025-04-09,Returned,PayPal
+1142,155,2025-11-30,Delivered,Credit Card
+1143,473,2025-01-01,Delivered,Cash on Delivery
+1144,215,2024-12-27,Delivered,Credit Card
+1145,327,2024-01-28,Delivered,Cash on Delivery
+1146,307,2024-04-01,Delivered,Credit Card
+1147,135,2024-07-16,Delivered,Bank Transfer
+1148,488,2025-07-02,Delivered,Credit Card
+1149,457,2024-12-24,Delivered,Credit Card
+1150,407,2024-02-06,Delivered,Credit Card
+1151,389,2025-08-15,Cancelled,Credit Card
+1152,454,2025-09-09,Delivered,Credit Card
+1153,402,2025-10-29,Delivered,Cash on Delivery
+1154,41,2025-12-01,Delivered,PayPal
+1155,60,2025-03-17,Cancelled,Credit Card
+1156,39,2024-08-26,Delivered,Credit Card
+1157,426,2025-02-19,Delivered,PayPal
+1158,367,2025-01-24,Delivered,Credit Card
+1159,408,2025-06-18,Delivered,Credit Card
+1160,268,2025-06-06,Delivered,Credit Card
+1161,419,2025-01-28,Delivered,PayPal
+1162,246,2025-12-31,Delivered,PayPal
+1163,386,2024-11-10,Delivered,Bank Transfer
+1164,57,2025-08-20,Delivered,Credit Card
+1165,443,2025-05-07,Delivered,Credit Card
+1166,281,2024-05-31,Delivered,Credit Card
+1167,14,2025-11-28,Delivered,PayPal
+1168,73,2025-02-18,Delivered,Credit Card
+1169,417,2025-12-17,Delivered,Bank Transfer
+1170,323,2025-01-22,Delivered,Credit Card
+1171,245,2025-09-24,Delivered,Credit Card
+1172,436,2025-12-18,Delivered,Credit Card
+1173,289,2025-12-20,Delivered,PayPal
+1174,65,2024-09-12,Delivered,PayPal
+1175,425,2024-05-07,Delivered,Credit Card
+1176,60,2025-12-11,Delivered,Credit Card
+1177,54,2025-03-11,Delivered,PayPal
+1178,486,2025-12-28,Delivered,PayPal
+1179,44,2024-03-26,Delivered,Credit Card
+1180,219,2025-07-14,Delivered,Credit Card
+1181,428,2024-01-10,Delivered,PayPal
+1182,52,2025-02-07,Delivered,Credit Card
+1183,353,2025-07-04,Returned,PayPal
+1184,52,2025-07-27,Delivered,Cash on Delivery
+1185,238,2025-04-27,Delivered,PayPal
+1186,100,2025-01-24,Delivered,Credit Card
+1187,261,2024-09-15,Delivered,Bank Transfer
+1188,403,2025-01-02,Delivered,Credit Card
+1189,254,2025-08-04,Delivered,Cash on Delivery
+1190,263,2025-04-04,Delivered,PayPal
+1191,196,2024-08-19,Delivered,Credit Card
+1192,178,2024-11-21,Delivered,Cash on Delivery
+1193,444,2025-08-20,Delivered,Cash on Delivery
+1194,372,2025-01-28,Delivered,Credit Card
+1195,164,2025-02-13,Delivered,PayPal
+1196,421,2025-05-23,Delivered,Credit Card
+1197,445,2025-11-30,Delivered,Credit Card
+1198,386,2025-12-15,Delivered,Credit Card
+1199,106,2024-07-29,Delivered,Credit Card
+1200,26,2025-08-11,Delivered,PayPal
+1201,231,2025-08-31,Delivered,Credit Card
+1202,294,2025-08-31,Delivered,Credit Card
+1203,231,2025-05-08,Delivered,Credit Card
+1204,459,2025-07-08,Delivered,Credit Card
+1205,89,2025-12-23,Delivered,Credit Card
+1206,428,2025-05-08,Delivered,PayPal
+1207,469,2024-09-23,Delivered,Credit Card
+1208,51,2025-03-04,Delivered,Credit Card
+1209,440,2024-05-10,Delivered,Cash on Delivery
+1210,201,2025-09-01,Delivered,PayPal
+1211,240,2024-12-12,Delivered,Cash on Delivery
+1212,58,2025-12-23,Delivered,Credit Card
+1213,126,2025-07-21,Delivered,PayPal
+1214,231,2024-12-21,Delivered,Credit Card
+1215,245,2025-09-12,Delivered,Credit Card
+1216,253,2024-10-23,Delivered,Credit Card
+1217,407,2024-08-20,Delivered,Credit Card
+1218,151,2025-07-04,Delivered,Credit Card
+1219,444,2025-08-26,Delivered,Credit Card
+1220,72,2024-07-10,Delivered,Credit Card
+1221,107,2024-12-14,Returned,Credit Card
+1222,327,2025-07-14,Delivered,Cash on Delivery
+1223,114,2025-09-26,Delivered,PayPal
+1224,50,2025-02-07,Delivered,Credit Card
+1225,497,2024-03-27,Delivered,Credit Card
+1226,94,2025-01-17,Delivered,Credit Card
+1227,431,2024-10-31,Delivered,PayPal
+1228,403,2025-08-07,Delivered,PayPal
+1229,279,2025-04-12,Delivered,Bank Transfer
+1230,463,2025-07-04,Delivered,Credit Card
+1231,14,2025-08-28,Delivered,Credit Card
+1232,233,2024-08-05,Delivered,Cash on Delivery
+1233,50,2025-03-07,Returned,PayPal
+1234,470,2024-12-15,Delivered,Credit Card
+1235,222,2025-11-11,Delivered,PayPal
+1236,440,2024-01-23,Delivered,Credit Card
+1237,77,2025-08-31,Delivered,Credit Card
+1238,259,2025-09-29,Delivered,PayPal
+1239,222,2024-07-02,Delivered,Credit Card
+1240,225,2024-01-29,Delivered,Credit Card
+1241,442,2025-05-13,Delivered,Bank Transfer
+1242,28,2024-06-27,Delivered,Credit Card
+1243,303,2025-05-05,Delivered,Credit Card
+1244,149,2025-10-10,Delivered,Credit Card
+1245,335,2025-03-21,Delivered,Credit Card
+1246,167,2025-09-08,Delivered,Credit Card
+1247,112,2025-04-21,Delivered,Credit Card
+1248,204,2025-05-15,Delivered,PayPal
+1249,238,2025-07-09,Delivered,Bank Transfer
+1250,22,2025-11-23,Delivered,Credit Card
+1251,74,2025-01-23,Delivered,Credit Card
+1252,230,2025-01-16,Delivered,Credit Card
+1253,134,2024-10-25,Delivered,Credit Card
+1254,228,2025-05-27,Delivered,PayPal
+1255,13,2025-07-19,Delivered,Bank Transfer
+1256,439,2024-09-19,Delivered,PayPal
+1257,423,2025-08-17,Delivered,Credit Card
+1258,234,2024-07-15,Delivered,Bank Transfer
+1259,361,2024-06-20,Returned,Credit Card
+1260,173,2025-10-21,Delivered,PayPal
+1261,74,2025-06-23,Delivered,Credit Card
+1262,350,2025-07-10,Delivered,Credit Card
+1263,274,2025-02-09,Delivered,PayPal
+1264,495,2025-04-10,Delivered,Credit Card
+1265,139,2025-07-27,Delivered,PayPal
+1266,304,2024-10-28,Cancelled,PayPal
+1267,201,2025-10-29,Delivered,Cash on Delivery
+1268,363,2024-11-07,Delivered,PayPal
+1269,228,2025-12-04,Delivered,Credit Card
+1270,10,2025-05-07,Returned,Bank Transfer
+1271,276,2025-12-07,Delivered,Cash on Delivery
+1272,193,2025-11-21,Delivered,Credit Card
+1273,425,2024-08-02,Delivered,Credit Card
+1274,236,2025-12-18,Delivered,Bank Transfer
+1275,306,2024-04-18,Delivered,PayPal
+1276,500,2025-07-05,Delivered,Credit Card
+1277,181,2025-08-26,Delivered,Cash on Delivery
+1278,402,2025-08-03,Delivered,PayPal
+1279,468,2025-11-02,Delivered,Credit Card
+1280,73,2025-09-03,Delivered,Bank Transfer
+1281,301,2025-10-21,Delivered,Credit Card
+1282,432,2025-10-07,Delivered,Credit Card
+1283,482,2025-08-13,Delivered,Credit Card
+1284,316,2025-03-26,Delivered,PayPal
+1285,187,2025-06-20,Delivered,PayPal
+1286,377,2025-01-26,Delivered,Credit Card
+1287,353,2024-09-07,Delivered,Credit Card
+1288,305,2024-02-18,Delivered,Credit Card
+1289,453,2025-09-12,Delivered,PayPal
+1290,465,2025-08-03,Delivered,Credit Card
+1291,356,2025-04-27,Delivered,Credit Card
+1292,195,2024-05-09,Delivered,Credit Card
+1293,9,2024-07-11,Delivered,PayPal
+1294,429,2024-05-13,Delivered,Credit Card
+1295,172,2025-12-01,Delivered,Credit Card
+1296,204,2025-12-14,Delivered,Credit Card
+1297,100,2025-10-28,Delivered,Credit Card
+1298,14,2025-04-10,Cancelled,PayPal
+1299,325,2025-08-13,Delivered,PayPal
+1300,81,2024-02-19,Delivered,Credit Card
+1301,170,2025-02-02,Delivered,Credit Card
+1302,282,2025-12-30,Delivered,Credit Card
+1303,4,2025-12-25,Delivered,PayPal
+1304,397,2025-10-15,Cancelled,PayPal
+1305,307,2024-08-27,Delivered,Credit Card
+1306,182,2024-09-02,Delivered,Credit Card
+1307,79,2025-09-06,Delivered,Credit Card
+1308,294,2025-05-21,Delivered,PayPal
+1309,497,2024-10-10,Delivered,Credit Card
+1310,127,2024-11-28,Delivered,Bank Transfer
+1311,137,2025-06-03,Delivered,Bank Transfer
+1312,4,2024-12-21,Delivered,Credit Card
+1313,116,2025-02-04,Delivered,PayPal
+1314,91,2025-01-23,Cancelled,Cash on Delivery
+1315,474,2024-08-24,Delivered,PayPal
+1316,188,2025-09-24,Delivered,Credit Card
+1317,440,2024-01-23,Delivered,Credit Card
+1318,395,2025-02-28,Delivered,Credit Card
+1319,367,2025-10-15,Delivered,Credit Card
+1320,92,2025-11-13,Delivered,Bank Transfer
+1321,475,2024-10-19,Delivered,Cash on Delivery
+1322,12,2024-07-24,Delivered,PayPal
+1323,150,2025-09-27,Delivered,Credit Card
+1324,221,2024-03-27,Delivered,Bank Transfer
+1325,119,2024-08-29,Delivered,Bank Transfer
+1326,443,2025-05-27,Delivered,Credit Card
+1327,98,2024-05-30,Delivered,Credit Card
+1328,452,2025-10-20,Delivered,Credit Card
+1329,98,2025-11-04,Returned,Credit Card
+1330,267,2025-08-03,Delivered,Credit Card
+1331,108,2025-03-30,Delivered,Bank Transfer
+1332,247,2025-12-26,Delivered,Credit Card
+1333,386,2024-12-07,Delivered,Credit Card
+1334,349,2025-03-29,Delivered,Credit Card
+1335,268,2025-03-29,Delivered,Cash on Delivery
+1336,73,2025-04-17,Delivered,Cash on Delivery
+1337,23,2025-06-15,Delivered,PayPal
+1338,183,2024-05-25,Delivered,Credit Card
+1339,444,2024-11-06,Delivered,Credit Card
+1340,280,2025-04-21,Delivered,Credit Card
+1341,382,2025-04-04,Delivered,Credit Card
+1342,264,2025-10-19,Delivered,Cash on Delivery
+1343,171,2024-06-24,Delivered,Bank Transfer
+1344,63,2025-12-15,Delivered,Credit Card
+1345,288,2024-12-02,Delivered,Credit Card
+1346,161,2025-08-06,Delivered,PayPal
+1347,195,2025-11-10,Delivered,PayPal
+1348,248,2025-02-19,Delivered,PayPal
+1349,194,2025-10-24,Delivered,Cash on Delivery
+1350,208,2025-12-23,Delivered,PayPal
+1351,80,2024-11-25,Delivered,PayPal
+1352,381,2025-04-03,Delivered,Credit Card
+1353,11,2025-03-28,Delivered,Cash on Delivery
+1354,433,2025-04-23,Delivered,Bank Transfer
+1355,132,2025-06-08,Delivered,Cash on Delivery
+1356,141,2025-11-30,Delivered,Credit Card
+1357,359,2025-07-09,Delivered,Credit Card
+1358,273,2025-11-04,Delivered,Credit Card
+1359,346,2025-04-23,Delivered,PayPal
+1360,115,2025-10-30,Delivered,Cash on Delivery
+1361,426,2024-04-30,Delivered,Bank Transfer
+1362,175,2024-06-23,Delivered,Bank Transfer
+1363,57,2025-10-21,Delivered,Cash on Delivery
+1364,144,2025-06-28,Delivered,Credit Card
+1365,495,2025-04-23,Cancelled,Bank Transfer
+1366,490,2025-11-09,Delivered,Credit Card
+1367,480,2025-06-30,Delivered,Credit Card
+1368,102,2025-12-04,Cancelled,Credit Card
+1369,259,2025-09-22,Delivered,Credit Card
+1370,102,2024-06-29,Delivered,Credit Card
+1371,278,2025-08-16,Delivered,Cash on Delivery
+1372,269,2025-04-30,Delivered,Credit Card
+1373,271,2024-11-22,Delivered,Credit Card
+1374,385,2025-08-09,Delivered,Credit Card
+1375,64,2025-11-09,Delivered,Credit Card
+1376,162,2025-05-17,Delivered,Credit Card
+1377,134,2025-12-20,Delivered,Cash on Delivery
+1378,333,2025-10-15,Delivered,Cash on Delivery
+1379,12,2025-04-11,Delivered,Credit Card
+1380,236,2024-07-29,Delivered,Credit Card
+1381,117,2025-11-15,Delivered,PayPal
+1382,250,2025-08-03,Delivered,Cash on Delivery
+1383,475,2024-01-01,Delivered,PayPal
+1384,471,2025-09-27,Delivered,PayPal
+1385,404,2025-03-30,Delivered,PayPal
+1386,394,2025-12-10,Delivered,Bank Transfer
+1387,251,2025-09-30,Delivered,Credit Card
+1388,493,2025-07-01,Delivered,Cash on Delivery
+1389,189,2025-06-12,Delivered,Credit Card
+1390,374,2025-09-11,Delivered,Bank Transfer
+1391,367,2025-05-16,Delivered,Credit Card
+1392,127,2024-12-28,Delivered,PayPal
+1393,462,2025-08-21,Delivered,Credit Card
+1394,3,2025-06-27,Delivered,Credit Card
+1395,247,2025-11-22,Delivered,Bank Transfer
+1396,147,2025-01-27,Delivered,PayPal
+1397,389,2025-09-26,Delivered,Credit Card
+1398,456,2025-05-30,Delivered,Credit Card
+1399,334,2025-02-17,Delivered,PayPal
+1400,166,2024-04-12,Delivered,PayPal
+1401,431,2024-02-02,Delivered,Credit Card
+1402,384,2025-11-09,Delivered,Credit Card
+1403,280,2024-08-09,Delivered,Credit Card
+1404,167,2025-07-22,Delivered,Credit Card
+1405,331,2024-12-21,Delivered,Cash on Delivery
+1406,106,2024-06-22,Delivered,PayPal
+1407,225,2025-01-10,Delivered,PayPal
+1408,38,2024-09-28,Delivered,Credit Card
+1409,315,2025-11-11,Delivered,Credit Card
+1410,382,2024-01-24,Cancelled,PayPal
+1411,64,2025-06-18,Delivered,Credit Card
+1412,470,2025-02-24,Delivered,Credit Card
+1413,216,2025-09-07,Delivered,PayPal
+1414,132,2025-12-05,Delivered,Credit Card
+1415,429,2025-05-25,Delivered,PayPal
+1416,26,2025-08-04,Delivered,Credit Card
+1417,303,2025-08-24,Delivered,PayPal
+1418,200,2024-04-25,Delivered,Credit Card
+1419,318,2025-06-11,Delivered,Cash on Delivery
+1420,304,2025-07-11,Delivered,Credit Card
+1421,470,2024-02-15,Cancelled,Bank Transfer
+1422,209,2025-10-14,Delivered,Bank Transfer
+1423,404,2025-05-15,Returned,Credit Card
+1424,112,2024-05-27,Delivered,Bank Transfer
+1425,364,2025-03-30,Delivered,Credit Card
+1426,236,2025-09-26,Cancelled,Cash on Delivery
+1427,358,2025-04-21,Delivered,Bank Transfer
+1428,458,2025-01-19,Delivered,Cash on Delivery
+1429,324,2025-11-06,Delivered,PayPal
+1430,1,2024-02-08,Delivered,PayPal
+1431,432,2025-01-14,Delivered,Credit Card
+1432,413,2025-06-10,Delivered,Credit Card
+1433,308,2025-07-30,Delivered,Credit Card
+1434,179,2025-07-02,Returned,PayPal
+1435,202,2025-10-15,Returned,PayPal
+1436,346,2025-08-08,Delivered,PayPal
+1437,51,2025-07-15,Delivered,Credit Card
+1438,466,2025-07-27,Delivered,Credit Card
+1439,159,2024-04-17,Delivered,PayPal
+1440,342,2024-09-14,Returned,Credit Card
+1441,307,2025-09-14,Delivered,Cash on Delivery
+1442,470,2025-03-21,Cancelled,Credit Card
+1443,219,2025-05-16,Delivered,Credit Card
+1444,414,2025-11-24,Delivered,Credit Card
+1445,303,2024-08-25,Delivered,Credit Card
+1446,66,2025-10-27,Delivered,Bank Transfer
+1447,479,2025-11-19,Delivered,PayPal
+1448,226,2025-10-16,Delivered,PayPal
+1449,338,2025-11-13,Delivered,Bank Transfer
+1450,109,2025-11-27,Delivered,Bank Transfer
+1451,500,2024-12-23,Delivered,Credit Card
+1452,63,2025-06-06,Delivered,Cash on Delivery
+1453,272,2025-05-22,Delivered,PayPal
+1454,21,2025-06-09,Delivered,Credit Card
+1455,405,2025-02-07,Delivered,Credit Card
+1456,399,2024-12-05,Delivered,Credit Card
+1457,347,2024-09-07,Delivered,Bank Transfer
+1458,59,2025-11-06,Delivered,Credit Card
+1459,102,2025-01-18,Delivered,Credit Card
+1460,432,2025-04-03,Delivered,Bank Transfer
+1461,354,2025-10-04,Returned,Credit Card
+1462,430,2025-03-05,Delivered,Credit Card
+1463,83,2024-01-31,Delivered,Credit Card
+1464,454,2025-11-11,Cancelled,Cash on Delivery
+1465,294,2025-06-25,Delivered,Credit Card
+1466,10,2024-04-14,Delivered,PayPal
+1467,176,2025-11-30,Delivered,PayPal
+1468,132,2025-01-09,Delivered,Credit Card
+1469,297,2025-11-15,Returned,Credit Card
+1470,169,2024-06-21,Delivered,PayPal
+1471,111,2025-01-19,Delivered,Credit Card
+1472,462,2025-11-04,Delivered,PayPal
+1473,209,2025-10-21,Delivered,PayPal
+1474,465,2025-05-21,Delivered,Bank Transfer
+1475,235,2024-08-15,Delivered,Credit Card
+1476,93,2024-07-15,Delivered,Cash on Delivery
+1477,430,2024-04-10,Delivered,Credit Card
+1478,460,2025-02-14,Delivered,Credit Card
+1479,212,2025-03-27,Delivered,Credit Card
+1480,404,2025-01-03,Delivered,PayPal
+1481,257,2025-06-22,Delivered,Credit Card
+1482,73,2025-10-23,Delivered,Credit Card
+1483,22,2025-12-14,Delivered,Credit Card
+1484,21,2025-10-24,Delivered,PayPal
+1485,494,2025-02-02,Delivered,Credit Card
+1486,78,2025-03-15,Delivered,Credit Card
+1487,346,2025-05-02,Delivered,PayPal
+1488,431,2024-10-29,Delivered,PayPal
+1489,140,2025-07-30,Delivered,Credit Card
+1490,142,2025-11-19,Delivered,Bank Transfer
+1491,33,2025-05-26,Cancelled,PayPal
+1492,95,2024-08-09,Delivered,Credit Card
+1493,385,2025-12-30,Delivered,Credit Card
+1494,19,2025-11-22,Cancelled,Credit Card
+1495,243,2025-06-13,Delivered,PayPal
+1496,76,2025-05-26,Cancelled,Credit Card
+1497,9,2025-06-02,Delivered,PayPal
+1498,260,2025-10-05,Delivered,Credit Card
+1499,451,2025-08-30,Delivered,Bank Transfer
+1500,100,2025-08-20,Delivered,Cash on Delivery
+1501,156,2025-06-12,Delivered,Cash on Delivery
+1502,42,2025-05-01,Delivered,PayPal
+1503,332,2024-01-13,Delivered,Credit Card
+1504,358,2025-08-28,Delivered,Credit Card
+1505,70,2025-09-04,Cancelled,Credit Card
+1506,305,2024-08-12,Delivered,PayPal
+1507,59,2025-09-16,Delivered,Credit Card
+1508,129,2024-06-07,Delivered,PayPal
+1509,485,2024-08-09,Delivered,Bank Transfer
+1510,398,2025-07-11,Cancelled,Bank Transfer
+1511,33,2025-11-05,Delivered,Bank Transfer
+1512,463,2025-11-20,Delivered,Credit Card
+1513,84,2025-10-18,Delivered,PayPal
+1514,347,2025-06-05,Delivered,Cash on Delivery
+1515,101,2024-04-17,Delivered,Credit Card
+1516,229,2024-08-15,Delivered,Credit Card
+1517,458,2025-06-24,Delivered,Credit Card
+1518,29,2025-08-15,Delivered,Credit Card
+1519,263,2024-12-01,Delivered,Bank Transfer
+1520,242,2024-03-16,Cancelled,Credit Card
+1521,201,2025-08-02,Delivered,Bank Transfer
+1522,130,2025-02-19,Delivered,Credit Card
+1523,347,2024-06-30,Delivered,PayPal
+1524,364,2025-10-30,Returned,PayPal
+1525,22,2025-12-24,Delivered,Bank Transfer
+1526,284,2025-11-23,Delivered,Bank Transfer
+1527,7,2025-02-03,Delivered,Credit Card
+1528,326,2025-02-02,Delivered,Credit Card
+1529,145,2025-07-18,Delivered,Credit Card
+1530,159,2024-04-23,Delivered,Credit Card
+1531,83,2025-02-17,Delivered,PayPal
+1532,334,2025-04-14,Delivered,Credit Card
+1533,140,2025-01-17,Delivered,PayPal
+1534,142,2025-11-29,Delivered,Bank Transfer
+1535,190,2025-07-11,Delivered,Credit Card
+1536,485,2025-03-10,Delivered,Credit Card
+1537,125,2025-07-20,Cancelled,Credit Card
+1538,332,2024-10-24,Delivered,Bank Transfer
+1539,78,2025-10-01,Returned,Credit Card
+1540,93,2025-12-13,Delivered,Cash on Delivery
+1541,113,2025-11-29,Delivered,Credit Card
+1542,247,2025-07-16,Delivered,Bank Transfer
+1543,414,2025-10-19,Delivered,PayPal
+1544,244,2024-08-08,Delivered,Credit Card
+1545,463,2025-05-30,Cancelled,Credit Card
+1546,320,2025-07-02,Delivered,PayPal
+1547,475,2025-07-03,Delivered,Cash on Delivery
+1548,40,2024-11-22,Delivered,Bank Transfer
+1549,88,2024-04-17,Delivered,Credit Card
+1550,418,2025-08-19,Delivered,Credit Card
+1551,74,2024-07-03,Delivered,Credit Card
+1552,472,2024-07-27,Delivered,PayPal
+1553,122,2024-10-15,Delivered,Credit Card
+1554,37,2025-08-19,Delivered,Bank Transfer
+1555,111,2024-01-23,Delivered,Credit Card
+1556,437,2025-09-21,Delivered,PayPal
+1557,447,2025-11-10,Delivered,Cash on Delivery
+1558,81,2024-10-26,Delivered,Credit Card
+1559,220,2024-12-28,Delivered,PayPal
+1560,313,2025-08-01,Delivered,PayPal
+1561,472,2025-11-09,Delivered,Cash on Delivery
+1562,84,2025-05-27,Delivered,Credit Card
+1563,80,2025-08-24,Delivered,Credit Card
+1564,81,2025-07-27,Delivered,Credit Card
+1565,291,2024-09-26,Delivered,Credit Card
+1566,214,2025-09-28,Delivered,PayPal
+1567,160,2024-10-28,Delivered,Credit Card
+1568,14,2025-01-21,Delivered,PayPal
+1569,328,2025-01-11,Delivered,Credit Card
+1570,242,2024-01-07,Delivered,Credit Card
+1571,84,2025-06-08,Delivered,Credit Card
+1572,255,2025-10-11,Cancelled,Bank Transfer
+1573,232,2025-06-20,Delivered,Bank Transfer
+1574,85,2025-08-27,Delivered,Credit Card
+1575,216,2025-01-12,Delivered,Credit Card
+1576,161,2025-01-20,Delivered,Credit Card
+1577,10,2025-02-06,Delivered,Credit Card
+1578,135,2024-08-16,Delivered,Bank Transfer
+1579,31,2025-07-19,Delivered,Credit Card
+1580,440,2024-02-26,Cancelled,PayPal
+1581,20,2025-05-08,Delivered,PayPal
+1582,22,2025-05-27,Delivered,Bank Transfer
+1583,108,2025-10-02,Cancelled,Bank Transfer
+1584,453,2024-11-03,Delivered,PayPal
+1585,450,2025-07-31,Delivered,Credit Card
+1586,283,2024-03-15,Delivered,Credit Card
+1587,205,2025-10-29,Cancelled,PayPal
+1588,356,2024-07-01,Delivered,PayPal
+1589,347,2025-04-28,Delivered,Cash on Delivery
+1590,115,2025-12-18,Delivered,Credit Card
+1591,111,2024-07-28,Delivered,Bank Transfer
+1592,300,2025-11-23,Delivered,Credit Card
+1593,419,2024-10-26,Delivered,Credit Card
+1594,25,2025-03-14,Delivered,PayPal
+1595,313,2025-03-17,Cancelled,Bank Transfer
+1596,191,2025-07-29,Delivered,PayPal
+1597,128,2025-11-18,Delivered,Credit Card
+1598,21,2025-04-09,Delivered,Credit Card
+1599,39,2025-02-28,Delivered,Credit Card
+1600,374,2025-02-06,Delivered,Bank Transfer
+1601,385,2025-03-19,Delivered,Credit Card
+1602,489,2024-07-12,Delivered,Credit Card
+1603,425,2024-05-13,Delivered,Credit Card
+1604,255,2025-08-10,Delivered,Credit Card
+1605,493,2024-11-17,Delivered,Cash on Delivery
+1606,229,2024-10-23,Delivered,PayPal
+1607,370,2025-10-14,Delivered,Credit Card
+1608,155,2025-09-02,Cancelled,PayPal
+1609,335,2025-02-19,Delivered,Credit Card
+1610,427,2025-10-18,Delivered,Credit Card
+1611,470,2024-02-27,Delivered,Cash on Delivery
+1612,434,2025-01-26,Delivered,Credit Card
+1613,9,2024-09-25,Delivered,Bank Transfer
+1614,16,2025-11-03,Delivered,Credit Card
+1615,138,2024-04-29,Delivered,PayPal
+1616,387,2025-03-03,Delivered,Credit Card
+1617,460,2025-06-03,Delivered,Credit Card
+1618,3,2025-07-27,Delivered,Cash on Delivery
+1619,20,2025-06-16,Cancelled,Credit Card
+1620,317,2025-01-03,Delivered,Credit Card
+1621,299,2025-05-21,Delivered,Credit Card
+1622,85,2025-12-03,Delivered,Credit Card
+1623,226,2024-04-18,Delivered,Credit Card
+1624,108,2025-01-14,Delivered,PayPal
+1625,111,2025-12-26,Delivered,Credit Card
+1626,142,2025-10-20,Delivered,Credit Card
+1627,40,2024-08-07,Delivered,Credit Card
+1628,221,2024-03-11,Delivered,Credit Card
+1629,80,2025-03-05,Delivered,Cash on Delivery
+1630,373,2025-10-03,Delivered,Credit Card
+1631,281,2024-08-16,Cancelled,Credit Card
+1632,44,2024-04-15,Delivered,PayPal
+1633,164,2025-02-28,Delivered,Credit Card
+1634,265,2024-06-05,Delivered,Bank Transfer
+1635,113,2025-07-29,Delivered,Credit Card
+1636,306,2024-03-07,Delivered,Bank Transfer
+1637,473,2025-12-24,Delivered,PayPal
+1638,168,2025-11-11,Delivered,PayPal
+1639,250,2025-10-28,Delivered,Credit Card
+1640,423,2025-06-27,Delivered,Credit Card
+1641,488,2025-03-10,Delivered,PayPal
+1642,272,2025-08-16,Delivered,Bank Transfer
+1643,396,2024-11-29,Delivered,Cash on Delivery
+1644,257,2025-05-07,Delivered,PayPal
+1645,367,2025-09-04,Delivered,Cash on Delivery
+1646,388,2025-09-17,Delivered,Credit Card
+1647,196,2025-11-17,Delivered,PayPal
+1648,181,2025-12-09,Delivered,Credit Card
+1649,403,2025-01-31,Delivered,Credit Card
+1650,394,2024-09-14,Delivered,Credit Card
+1651,407,2024-07-04,Delivered,PayPal
+1652,481,2025-07-02,Delivered,Cash on Delivery
+1653,28,2025-05-09,Delivered,Cash on Delivery
+1654,47,2024-11-26,Delivered,PayPal
+1655,481,2025-09-09,Delivered,Credit Card
+1656,257,2024-08-19,Delivered,Cash on Delivery
+1657,374,2025-07-20,Delivered,Credit Card
+1658,464,2025-07-31,Delivered,Credit Card
+1659,309,2025-04-08,Delivered,PayPal
+1660,87,2025-07-29,Delivered,Cash on Delivery
+1661,79,2025-11-16,Delivered,PayPal
+1662,399,2025-03-07,Delivered,Credit Card
+1663,394,2025-03-03,Delivered,Bank Transfer
+1664,412,2024-12-27,Delivered,Credit Card
+1665,366,2025-07-13,Delivered,PayPal
+1666,331,2025-03-04,Delivered,Credit Card
+1667,363,2025-03-19,Delivered,Bank Transfer
+1668,428,2024-10-14,Delivered,Credit Card
+1669,67,2025-04-25,Delivered,PayPal
+1670,492,2024-08-16,Delivered,PayPal
+1671,382,2024-08-19,Cancelled,PayPal
+1672,60,2025-06-27,Delivered,Credit Card
+1673,267,2025-09-09,Delivered,PayPal
+1674,116,2025-07-02,Delivered,Credit Card
+1675,396,2025-07-21,Delivered,Credit Card
+1676,285,2025-04-29,Delivered,Credit Card
+1677,305,2024-10-05,Returned,Credit Card
+1678,409,2025-04-28,Cancelled,PayPal
+1679,325,2025-06-29,Delivered,Cash on Delivery
+1680,471,2025-12-07,Delivered,Cash on Delivery
+1681,445,2025-06-01,Delivered,Cash on Delivery
+1682,282,2025-09-28,Delivered,Cash on Delivery
+1683,200,2025-03-22,Delivered,PayPal
+1684,378,2025-06-25,Delivered,PayPal
+1685,40,2025-05-18,Delivered,Credit Card
+1686,97,2025-08-19,Delivered,Credit Card
+1687,368,2025-10-20,Delivered,Credit Card
+1688,237,2025-07-14,Delivered,Bank Transfer
+1689,206,2025-09-12,Returned,Cash on Delivery
+1690,370,2025-07-13,Delivered,Cash on Delivery
+1691,141,2025-01-20,Delivered,Credit Card
+1692,456,2025-08-13,Delivered,Credit Card
+1693,484,2024-12-05,Delivered,Credit Card
+1694,416,2024-12-13,Delivered,Credit Card
+1695,62,2024-10-30,Delivered,Credit Card
+1696,481,2025-10-05,Delivered,Credit Card
+1697,280,2025-05-27,Delivered,Credit Card
+1698,481,2025-12-17,Delivered,Credit Card
+1699,323,2025-11-05,Delivered,Credit Card
+1700,157,2024-11-09,Delivered,Credit Card
+1701,468,2024-02-29,Delivered,Credit Card
+1702,26,2025-09-14,Delivered,PayPal
+1703,90,2025-06-27,Delivered,Bank Transfer
+1704,136,2024-03-09,Delivered,Credit Card
+1705,261,2025-09-26,Delivered,Bank Transfer
+1706,259,2025-11-20,Delivered,Cash on Delivery
+1707,125,2025-05-21,Delivered,Credit Card
+1708,438,2025-11-28,Delivered,Cash on Delivery
+1709,428,2024-01-09,Delivered,Credit Card
+1710,380,2024-09-24,Delivered,Credit Card
+1711,405,2024-06-09,Delivered,Credit Card
+1712,6,2024-11-22,Delivered,Credit Card
+1713,72,2024-12-01,Delivered,Credit Card
+1714,482,2025-02-24,Delivered,Credit Card
+1715,201,2025-11-03,Delivered,Credit Card
+1716,320,2025-04-27,Delivered,Bank Transfer
+1717,370,2025-12-04,Delivered,PayPal
+1718,55,2025-08-04,Delivered,PayPal
+1719,358,2025-03-25,Delivered,Credit Card
+1720,351,2025-12-24,Delivered,Credit Card
+1721,12,2024-09-18,Delivered,Bank Transfer
+1722,321,2025-09-20,Delivered,PayPal
+1723,244,2024-05-30,Delivered,Cash on Delivery
+1724,244,2024-03-22,Delivered,Bank Transfer
+1725,115,2025-11-12,Delivered,Credit Card
+1726,6,2025-08-14,Delivered,Credit Card
+1727,194,2025-11-07,Delivered,Credit Card
+1728,258,2025-12-31,Delivered,Credit Card
+1729,260,2024-03-12,Delivered,Credit Card
+1730,57,2025-03-20,Cancelled,Cash on Delivery
+1731,39,2024-02-19,Delivered,Credit Card
+1732,161,2025-08-04,Cancelled,Credit Card
+1733,40,2025-01-06,Delivered,Bank Transfer
+1734,88,2024-12-22,Delivered,PayPal
+1735,364,2025-09-26,Delivered,Credit Card
+1736,291,2025-09-27,Delivered,Bank Transfer
+1737,76,2024-11-20,Cancelled,Credit Card
+1738,351,2025-10-13,Delivered,PayPal
+1739,90,2025-06-15,Delivered,Credit Card
+1740,31,2025-07-01,Delivered,PayPal
+1741,101,2024-08-26,Delivered,PayPal
+1742,179,2025-05-20,Delivered,Credit Card
+1743,416,2025-07-24,Delivered,Credit Card
+1744,40,2025-04-16,Delivered,Credit Card
+1745,1,2025-06-09,Delivered,Credit Card
+1746,192,2025-07-17,Delivered,Cash on Delivery
+1747,188,2025-07-16,Delivered,Credit Card
+1748,153,2024-03-24,Delivered,Credit Card
+1749,25,2025-03-08,Delivered,Credit Card
+1750,286,2025-12-09,Returned,PayPal
+1751,219,2024-03-10,Delivered,Credit Card
+1752,18,2025-11-24,Delivered,Credit Card
+1753,96,2024-10-26,Delivered,Credit Card
+1754,434,2025-12-26,Delivered,Credit Card
+1755,500,2024-09-19,Delivered,Credit Card
+1756,161,2025-04-06,Delivered,Credit Card
+1757,450,2025-05-24,Delivered,Cash on Delivery
+1758,81,2024-09-27,Delivered,Credit Card
+1759,42,2024-08-31,Delivered,Credit Card
+1760,122,2025-01-06,Delivered,Credit Card
+1761,237,2025-04-16,Returned,Bank Transfer
+1762,465,2025-08-04,Delivered,PayPal
+1763,110,2025-08-09,Delivered,Credit Card
+1764,474,2024-11-01,Delivered,PayPal
+1765,266,2025-03-23,Delivered,Credit Card
+1766,354,2024-09-16,Delivered,Credit Card
+1767,403,2025-10-13,Delivered,Credit Card
+1768,371,2025-01-21,Delivered,Bank Transfer
+1769,133,2025-08-01,Delivered,Credit Card
+1770,453,2025-12-02,Delivered,PayPal
+1771,36,2025-10-30,Delivered,Bank Transfer
+1772,81,2024-12-04,Delivered,Cash on Delivery
+1773,159,2025-05-06,Delivered,Credit Card
+1774,155,2025-09-29,Delivered,Credit Card
+1775,76,2025-08-10,Delivered,Credit Card
+1776,420,2024-09-27,Delivered,PayPal
+1777,494,2024-12-16,Delivered,PayPal
+1778,448,2024-09-23,Delivered,Credit Card
+1779,439,2025-07-18,Delivered,Credit Card
+1780,158,2024-10-02,Delivered,Credit Card
+1781,106,2024-10-20,Delivered,Credit Card
+1782,467,2024-10-03,Delivered,Credit Card
+1783,234,2024-08-14,Delivered,PayPal
+1784,355,2024-07-29,Delivered,Credit Card
+1785,495,2025-12-26,Cancelled,PayPal
+1786,139,2025-10-07,Delivered,Credit Card
+1787,324,2024-09-17,Delivered,PayPal
+1788,419,2025-12-26,Delivered,Credit Card
+1789,216,2025-04-26,Delivered,Credit Card
+1790,495,2025-04-26,Delivered,Credit Card
+1791,398,2025-03-26,Delivered,Credit Card
+1792,145,2025-06-15,Delivered,Bank Transfer
+1793,386,2025-11-08,Delivered,PayPal
+1794,61,2024-09-09,Delivered,Credit Card
+1795,315,2025-01-17,Delivered,Cash on Delivery
+1796,16,2025-01-06,Delivered,Credit Card
+1797,419,2024-03-24,Delivered,Bank Transfer
+1798,110,2024-03-12,Delivered,Credit Card
+1799,363,2025-08-02,Delivered,Credit Card
+1800,453,2025-05-06,Delivered,Credit Card

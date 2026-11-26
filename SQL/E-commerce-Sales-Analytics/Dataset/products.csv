@@ -1,0 +1,33 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Wireless Headphones,Electronics,79.99,42.28
+2,Bluetooth Speaker,Electronics,49.99,30.12
+3,Smart Watch,Electronics,129.99,71.75
+4,USB-C Hub,Electronics,34.99,23.77
+5,Power Bank,Electronics,24.99,15.14
+6,Mechanical Keyboard,Electronics,89.99,53.28
+7,Wireless Mouse,Electronics,29.99,18.4
+8,Monitor 27 inch,Electronics,219.99,93.04
+9,Cotton T-Shirt,Clothing,19.99,8.82
+10,Hoodie,Clothing,44.99,26.73
+11,Running Jacket,Clothing,69.99,36.97
+12,Jeans,Clothing,49.99,30.31
+13,Sneakers,Clothing,84.99,34.92
+14,Sports Socks,Clothing,9.99,5.4
+15,Winter Coat,Clothing,119.99,59.23
+16,Cap,Clothing,14.99,7.75
+17,Desk Lamp,Home,32.99,18.51
+18,Water Bottle,Home,18.99,10.08
+19,Coffee Maker,Home,69.99,37.93
+20,Bedsheet Set,Home,39.99,21.03
+21,Storage Box,Home,12.99,6.53
+22,Office Chair,Home,159.99,97.84
+23,Throw Blanket,Home,29.99,11.51
+24,Cookware Set,Home,99.99,55.95
+25,Yoga Mat,Sports,27.99,15.38
+26,Dumbbell Set,Sports,59.99,35.69
+27,Resistance Bands,Sports,14.99,8.39
+28,Running Shoes,Sports,94.99,59.66
+29,Gym Bag,Sports,34.99,23.36
+30,Fitness Tracker,Sports,79.99,38.62
+31,Camping Lantern,Sports,24.99,11.2
+32,Hiking Backpack,Sports,89.99,45.63
